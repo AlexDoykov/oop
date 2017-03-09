@@ -1,8 +1,4 @@
 #include <iostream>
-#include<typeinfo>
-#include <cxxabi.h>
-#include <stdlib.h>
-#include <string>
 using namespace std;
 template <typename T>
 void input(T arr, int n){
@@ -79,6 +75,21 @@ double maxarrayB(T arr, int n, double x){
     }
     return (*m)(x);
 }
+
+template <typename T>
+void _map(double arr[], int n, T f){
+    for(int i = 0; i < n; i++){
+        arr[i] = f(arr[i]);
+    }
+}
+
+struct S{
+    int a, b, c;
+};
+template <typename T>
+//void Sort(T arr, int n, T compare){
+//
+//}
 
 void task1(){
     int n, a[10];char b[10]; double c[10];
@@ -159,11 +170,22 @@ void task6(){
 }
 
 void task7(){
-
+    int n;
+    double arr[10];
+    cin>>n;
+    input(arr, n);
+    _map(arr, n, f1);
+    for(int i = 0; i < n; i++){
+        cout<<arr[i]<<" ";
+    }cout<<endl;
 }
 
 void task8(){
-
+    S structures[10];
+    int n;
+    cin>>n;
+    input(structures, n);
+    //Sort(structures, n, compare);
 }
 
 int main(){
