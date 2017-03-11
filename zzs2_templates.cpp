@@ -68,12 +68,13 @@ double maxarrayA (T arr, int n, double x){
 
 template <typename T>
 double maxarrayB(T arr, int n, double x){
-    //cout<<(&arr[0])<<endl;
-    func *m = &arr[0];
-    for(int i = 1; i < n; i++){
-        m = fmax(m, arr[i], x);
+    double m = arr[0](x);
+    for(int i = 1; i < n-1; i++){
+        if(fmax(arr[i+1], arr[i], x) > m){
+            m = fmax(arr[i+1], arr[i], x);
+        }
     }
-    return (*m)(x);
+    return m;
 }
 
 template <typename T>
@@ -83,13 +84,14 @@ void _map(double arr[], int n, T f){
     }
 }
 
+template <typename T, typename S>
+void Sort(T arr, int n, S compare){
+
+}
+
 struct S{
     int a, b, c;
 };
-template <typename T>
-//void Sort(T arr, int n, T compare){
-//
-//}
 
 void task1(){
     int n, a[10];char b[10]; double c[10];
@@ -144,7 +146,6 @@ void task4(){
     cin>>x;
     func functions[] = {f1,f2,f3,f4,f5};
     double m = functions[0](x);
-    cout<<"m="<<m<<endl;
     for( int i = 1; i < 5; i++){
         if(functions[i](x) > m){
             m = functions[i](x);
@@ -165,8 +166,8 @@ void task6(){
     int n;
     double x;
     cin>>n>>x;
-    maxarrayA(functions, n, x);
-    //maxarrayB(functions, n, x);
+    cout<<maxarrayA(functions, n, x)<<endl;
+    cout<<maxarrayB(functions, n, x)<<endl;
 }
 
 void task7(){
@@ -184,8 +185,10 @@ void task8(){
     S structures[10];
     int n;
     cin>>n;
-    input(structures, n);
-    //Sort(structures, n, compare);
+    for(int i = 0; i < n; i++){
+        cin>>structures[i].a>>structures[i].b>>structures[i].c;
+    }
+    Sort(structures, n, compare);
 }
 
 int main(){
