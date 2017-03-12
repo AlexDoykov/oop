@@ -1,52 +1,39 @@
 #include <iostream>
 #include <cstring>
+#include "BankAccount.h"
 using namespace std;
-class BankAccount{
-    public:
-        char name[51];
-        char account[21];
-        double amount;
-        void set_name(char name[]){
-            strcpy(this->name, name);
-        }
-        void set_account(char account[]){
-            strcpy(this->account, account);
-        }
-        void set_amount(double amount){
-            this->amount = amount;
-        }
-        char* get_name(){
-            return name;
-        }
-        char* get_account(){
-            return account;
-        }
-        double get_amount(){
-            return amount;
-        }
-        void read(){
 
-        }
-        void print(){
-            cout<<get_name()<<" "<<get_account()<<" "<<get_amount()<<endl;
-        }
-        void deposit(double amount){
-            this->amount += amount;
-        }
-        void withdraw(double amount){
-            this->amount -= amount;
-        }
+Time operator * (int num, Time t){
+    Time result;
+    int minutes = num;
+    int minutesTime = t.passedMinutes();
+    result.hour = (minutes*minutesTime)/60;
+    result.minute = (minutes*minutesTime) - result.hour*60;
+    return result;
+}
 
-};
-int main(){
+void task1(){
     BankAccount ba1,ba2;
-    ba1.read();
     ba2.read();
-    ba1.print();
-    ba1.deposit(10);
-    ba1.print();
     ba2.print();
     ba2.withdraw(10);
     ba2.print();
+    ba1.read();
+    ba1.print();
+    ba1.deposit(10);
+    ba1.print();
+    cout<<(ba1 > ba2);
+}
+
+void task2(){
+    
+}
+
+int main(){
+    cin>>choise;
+    switch(choise){
+        case 1: task1(); break;
+        case 2: task2(); break;
+    }
     return 0;
 }
