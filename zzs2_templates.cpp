@@ -27,7 +27,7 @@ bool member(T arr, int n, S x){
     return false;
 }
 
-typedef double (*func) (double a);
+typedef double (*func) (double);
 
 
 
@@ -84,14 +84,50 @@ void _map(double arr[], int n, T f){
     }
 }
 
-template <typename T, typename S>
-void Sort(T arr, int n, S compare){
-
-}
 
 struct S{
     int a, b, c;
 };
+
+typedef bool (*compare) (S, S);
+
+template <typename T, typename S>
+void Sort(T arr, int n, bool (*compare) (S, S)){
+    for(int i = 0; i < n; i++){
+        for(int j = 0; j < n; j++){
+            if(compare(arr[i],arr[j])){
+                S swap = arr[i];
+                arr[i] = arr[j];
+                arr[j] = swap;
+            }
+        }
+    }
+}
+
+bool compareA(S x, S y){
+    return x.a > y.a;
+}
+
+bool compareB(S x, S y){
+    return x.b > y.b;
+}
+
+bool compareC(S x, S y){
+    return x.c > y.c;
+}
+
+bool compareTriple(S x, S y){
+    if(x.a != y.a){
+        return compareA(x,y);
+    }
+    if(x.b != y.b){
+        return compareB(x,y);
+    }
+    if(x.c != y.c){
+        return compareC(x,y);
+    }
+
+}
 
 void task1(){
     int n, a[10];char b[10]; double c[10];
@@ -188,13 +224,15 @@ void task8(){
     for(int i = 0; i < n; i++){
         cin>>structures[i].a>>structures[i].b>>structures[i].c;
     }
-    Sort(structures, n, compare);
+    Sort(structures, n, compareTriple);
+    for(int i = 0; i < n; i++){
+        cout<<structures[i].a<<" "<<structures[i].b<<" "<<structures[i].c<<endl;
+    }
 }
 
 int main(){
     int choice;
     for(;;){
-        cout<<"choice= ";
         cin>>choice;
         switch(choice){
             case 1: task1(); break;
