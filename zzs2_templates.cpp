@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 template <typename T>
-void input(T arr, int n){
+void input(T* arr, int n){
     for(int i = 0; i < n; i++){
         cin>>arr[i];
     }
@@ -17,8 +17,8 @@ bool ordered(T arr, int n){
     return true;
 }
 
-template <typename T, typename S>
-bool member(T arr, int n, S x){
+template <typename T>
+bool member(T* arr, int n, T x){
     for(int i = 0; i < n; i++){
         if(arr[i] == x){
             return true;
@@ -132,7 +132,7 @@ bool compareTriple(S x, S y){
 void task1(){
     int n, a[10];char b[10]; double c[10];
     cin>>n;
-    input(a,n);
+    input<int>(a,n);
     for(int i = 0; i < n; i++){
         cout<<a[i]<<" ";
     }cout<<endl;
