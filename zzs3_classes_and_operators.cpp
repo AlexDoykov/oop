@@ -3,6 +3,7 @@
 #include "BankAccount.h"
 #include "Time.h"
 #include "Dictionary.h"
+#include "Line.h"
 using namespace std;
 
 Time operator * (int num, Time t){
@@ -54,7 +55,6 @@ void task3(){
     dict3.init();
     dict1.add("shoe", "wear it on your feets");
     dict1.add("job", "money, money");
-    cout<<"dict1"<<endl;
     dict1.print();
     dict2.add("shoe", "wear it on your feets");
     dict2.add("hat", "something");
@@ -62,12 +62,35 @@ void task3(){
     cout<<dict2.checkMeaning("box")<<endl;
     cout<<dict2.checkMeaning("hat")<<endl;
     dict3 = dict1 + dict2;
-    cout<<"dict3: "<<endl;
     dict3.print();
     dict3.remove("shoe");
-    cout<<"after remove"<<endl;
     dict3.print();
 
+}
+
+void task4(){
+    Line l1,l2;
+    int x1,y1,x2,y2;
+    cin>>x1>>y1>>x2>>y2;
+    l1.init(x1,y1,x2,y2);
+    cin>>x1>>y1>>x2>>y2;
+    l2.init(x1,y1,x2,y2);
+
+    if(l1.isHorizontal(l2)){
+        cout<<"parallel\n";
+    }else{
+        cout<<"point of intersection: ";
+        Point p = l1.findPointOfIntersection(l2);
+        cout<<p.x<<" "<<p.y<<endl;
+    }
+    cin>>p.x>>p.y;
+    if(l1.isPointOnLine(p) == 1){
+        cout<<"is on line\n";
+    }else{
+        cout<<"is not on line\n";
+    }
+
+    if()
 }
 
 int main(){
@@ -80,6 +103,7 @@ int main(){
             case 1: task1(); break;
             case 2: task2(); break;
             case 3: task3(); break;
+            case 4: task4(); break;
         }
         return 0;
     }
