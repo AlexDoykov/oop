@@ -3,9 +3,10 @@
 #include <cstring>
 using namespace std;
 class Time{
-	public:
+	private:
 		unsigned int hour;
 		unsigned int minute;
+	public:
 		void set_hour(int _hour){
 			if(_hour > 24){
 				cout<<"Can't update hour";

@@ -37,7 +37,6 @@ public:
 	}
 
 	bool findPointOfIntersection(line other){
-		double y = (a1*(other.x-p1.x)+p1.y)
 
 	}
 

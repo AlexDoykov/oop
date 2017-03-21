@@ -2,10 +2,11 @@
 #include <cstring>
 using namespace std;
 class BankAccount{
-    public:
+    private:
         char name[51];
         char account[21];
         double amount;
+    public:
         void set_name(char name[]){
             strcpy(this->name, name);
         }
