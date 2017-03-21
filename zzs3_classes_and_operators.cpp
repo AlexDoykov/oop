@@ -90,7 +90,6 @@ void task4(){
         cout<<"is not on line\n";
     }
 
-    if()
 }
 
 int main(){
