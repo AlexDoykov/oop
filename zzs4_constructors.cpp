@@ -10,12 +10,9 @@ using namespace std;
 
 Rat poly(Rat coef[], int n, Rat x){
     Rat sum;
-    int p = n;
-    sum = coef[0]*(x^p);
-    p--;
-    for(int i = 1; i <= n; i++){
-        sum += (coef[i]*(x^p));
-        p--;
+    sum = coef[0] * x + coef[1];
+    for(int i = 2; i <= n; i++){
+        sum = ((sum * x) + coef[i]);
     }
     return sum;
 }
@@ -26,36 +23,50 @@ void task1(){
     cin>>n;
     for(int i = 0; i <= n; i++){
         cin>>nom>>denom;
-        coefs[i].set_nom(nom);
-        coefs[i].set_denom(denom);
+        coefs[i] = Rat(nom,denom);
     }
     cin>>nom>>denom;
     Rat x(nom,denom);
     Rat answer = poly(coefs,n,x);
+    answer.print();
 }
 
 void task2(){
-    char word[20];
-    int n;
-    cin>>n;
-    for(int i = 0; i < n; i++){
-        cin>>word[i];
-    }
-    Word w(word, n);
+    char word[21];
+    cin.ignore();
+    cin.getline(word,21);
+    Word w(word);
+    cout<<"Test for [] operator and constructor\n";
+    w.print();
     Word v;
+    v += 'J';
     v += 'a';
-    v += 'b';
+    cout<<"Test for += operator and default constructor\n";
+    v.print();
+
+    cout<<"Test for < and == operators\n";
     if(w < v){
         cout<<"v\n";
     }else{
         cout<<"w\n";
     }
+
     if(w == v){
         cout<<"equal\n";
+    }else{
+        cout<<"not equal\n";
     }
 
+    w = v;
+    if(w == v){
+        cout<<"equal\n";
+    }else{
+        cout<<"not equal\n";
+    }
+
+    cout<<"Test for + and = operators\n";
     Word r;
-    r = w + 'b';
+    r = (w + 'b');
     r.print();
 }
 
@@ -75,9 +86,12 @@ void task4(){
     BrowserHistory history2(m);
     HistoryEntry entry1;
     cin>>entry1.month;
-    cin>>entry1.url;
+    cin.ignore();
+    cin.getline(entry1.url,2048);
     history1.add(entry1);
-    history2 += entry1;
+    history1.print();
+    history2 += history1;
+    history2.print();
     BrowserHistory history3 = history2 + history1;
     history3.print();
     history3.removeResent();

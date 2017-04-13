@@ -1,6 +1,4 @@
 #include <iostream>
-#include <assert.h>
-#include <cstring>
 class NumbersSummator{
 private:
 	int init;
@@ -11,6 +9,12 @@ public:
 		init = s;
 		sumHolder = s;
 		changed = 0;
+	}
+
+	NumbersSummator operator = (const NumbersSummator& other){
+		init = other.init;
+		sumHolder = other.init;
+		changed = other.changed;
 	}
 
 	int sum(){

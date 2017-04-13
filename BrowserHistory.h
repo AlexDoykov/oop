@@ -13,10 +13,46 @@ class BrowserHistory{
 private:
 
 	HistoryEntry* websites;
-	int n,curSize;
+	size_t n,curSize;
+
+	void copyOld(int size){
+		HistoryEntry* newWebsites =  new HistoryEntry[size];
+		for(int i = 0; i < curSize; i++){
+			newWebsites[i] = websites[i];
+		}
+		delete websites;
+		websites = newWebsites;
+		n = size;
+	}
+
 
 public:
-	BrowserHistory(int _n){
+	
+	BrowserHistory(){
+		n = curSize = 0;
+		//за тоя конструктор не съм много сигурен дали така е правилно
+		websites = new HistoryEntry[n];
+
+	}
+
+	BrowserHistory& operator = (const BrowserHistory& other){
+		if(this != &other){
+			delete websites;
+			n = other.n;
+			curSize = other.curSize;
+			websites = new HistoryEntry[n];
+			for(int i = 0; i < n; i++){
+				websites[i] = other.websites[i];
+			}
+		}
+		return *this;
+	}
+
+	BrowserHistory(const BrowserHistory& other){
+		*this = other;
+	}
+
+	BrowserHistory(size_t _n){
 		websites = new HistoryEntry[_n];
 		n = _n;
 		curSize = 0;
@@ -30,23 +66,30 @@ public:
 		return n;
 	}
 
-	void add(HistoryEntry site){
-		HistoryEntry* newWebsites;
+	void add(const HistoryEntry& site){
 		if(curSize == n){
-			newWebsites =  new HistoryEntry[n*2];
-			for(int i = 0; i < n; i++){
-				newWebsites[i] = websites[i];
-			}
-			n *= 2;
-			delete websites;
-			websites = newWebsites;
+			int size = n*2;
+			copyOld(size);
 		}
 		websites[curSize] = site;
 		curSize++;
 	}
 
-	void operator +=(HistoryEntry site){
+	
+	//тъй като става колизия с домашно 5 за този оператор кода от домашно 4 за него го оставям в коментар
+	/*void operator +=(const HistoryEntry& site){
 		add(site);
+	}*/
+
+	void operator += (const BrowserHistory& other){
+		if(curSize+other.curSize >= n){
+			int size = curSize+other.curSize;
+			copyOld(size);
+		}
+		for(int i = curSize; i < other.curSize; i++){
+			websites[i] = other.websites[i-curSize];
+		}
+		curSize += other.curSize;
 	}
 
 	void print(){
@@ -86,30 +129,19 @@ public:
 	}
 
 	void removeResent(){
-		HistoryEntry* newWebsites =  new HistoryEntry[n];
-
-		for(int i = 0; i < curSize-1; i++){
-			newWebsites[i] = websites[i];
-		}
-		curSize--;
-		delete websites;
-		websites = newWebsites;
+		if(curSize > 0) curSize--;
 	}
 
-	BrowserHistory operator + (BrowserHistory other){
+	BrowserHistory operator + (const BrowserHistory& other){
 		BrowserHistory result(n+other.n);
-		for(int i = 0; i < curSize; i++){
-			result.websites[i] = websites[i];
-		}
-
-		for (int i = 0; i < other.curSize; i++)
-		{
-			result.websites[i+curSize] = other.websites[i];
-		}
-
-		result.n  = n+other.n;
-		result.curSize = curSize+other.curSize;
+		result += *this;
+		result += other;
 		return result;
+	}
+
+	~BrowserHistory(){
+		//a за тук се замислих не трябва ли да имам и n = 0 и curSize = 0;
+		delete websites;
 	}
 
 };

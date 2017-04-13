@@ -12,8 +12,8 @@ struct Word
 class Dictionary{
 
 	private:
-		Word words[500];
-		int cnt;
+		Word* words;
+		size_t cnt,n;
 
 		void _sort(){
 			for(int i = 0; i < cnt; i++){
@@ -25,9 +25,44 @@ class Dictionary{
 				}
 			}
 		}
+
+		void copyOld(int size){
+			Word* newWords =  new Word[size];
+			for(int i = 0; i < cnt; i++){
+				newWords[i] = words[i];
+			}
+			delete words;
+			words = newWords;
+			n = size;
+		}
+
 	public:
-		void init(){
+
+		Dictionary(unsigned int N){
+			n = N;
 			cnt = 0;
+			words = new Word[n];
+		}
+
+		~Dictionary(){
+			delete words;
+		}
+
+		Dictionary& operator = (const Dictionary& other){
+			if(this != &other){
+				//delete words;
+				cnt = other.cnt;
+				n = other.n;
+				words = new Word[n];
+				for(int i = 0; i < n; i++){
+					words[i] = other.words[i];
+				}
+			}
+			return *this;
+		}
+
+		Dictionary(const Dictionary& other){
+			*this = other;
 		}
 
 		void print(){
@@ -37,6 +72,10 @@ class Dictionary{
 		}
 
 		void add(const char* _word, const char* _meaning){
+			if(cnt == n){
+				int size = n*2;
+				copyOld(size);
+			}
 			strcpy(words[cnt].word, _word);
 			strcpy(words[cnt].meaning, _meaning);
 			cnt++;
@@ -74,33 +113,31 @@ class Dictionary{
 			print();
 		}
 
-		Dictionary operator + (Dictionary dict){
-			Dictionary result;
-			int k = 0;
-			for(int i = 0; i < cnt; i++){
-				strcpy(result.words[k].word, words[i].word);
-				strcpy(result.words[k].meaning, words[i].meaning);
-				k++;
+		void operator += (Dictionary other){
+			if(cnt+other.cnt >= n){
+				int size = cnt+other.cnt;
+				copyOld(size);
 			}
-			bool found = 0;
-			for(int i = 0; i < dict.cnt; i++){
+			int found = 0;
+			for(int i = cnt; i < other.cnt; i++){
 				for(int j = 0; j < cnt; j++){
-					if(strcmp(dict.words[i].word, result.words[j].word) == 0){
-						strcat(result.words[j].meaning, dict.words[i].meaning);
+					if(strcmp(words[j].word, other.words[i].word)){
 						found = 1;
 					}
 				}
 				if(found == 0){
-					strcpy(result.words[k].word, dict.words[i].word);
-					strcpy(result.words[k].meaning, dict.words[i].meaning);
-					k++;
-					if(k == 500) break;
-				}else{
-					found = 0;
+					words[i] = other.words[i-cnt];
 				}
+				found = 0;
+
 			}
-			cout<<k<<endl;
-			result.cnt = k;
+			cnt += other.cnt;
+		}
+
+		Dictionary operator + (const Dictionary& other){
+			Dictionary result(cnt+other.cnt);
+			result += *this;
+			result += other;
 			return result;
 		}
 
