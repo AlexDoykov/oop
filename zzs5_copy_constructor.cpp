@@ -36,7 +36,6 @@ void task2(){
     dict2.print();
     dict2 += dict1;
     dict2.add("music","sth you listen");
-    Dictionary dict3 = dict1 + dict2;
    // dict3.getSize();
     //dict3.print();
 }
@@ -49,10 +48,10 @@ void task4(){
     a1[3] = 4;
     a1[4] = 5;
     a1[5] = 6;
-    a1.resize(2);
-    a1.resize(-3);
-    a1.print();
-    //a1.slice(2);
+    //a1.resize(2);
+    //a1.resize(-3);
+   // a1.print();
+    a1.slice(4);
     //cout<<a2[0].getsize()<<" ";
 }
 
