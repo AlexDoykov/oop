@@ -25,6 +25,15 @@ private:
 		n = size;
 	}
 
+	void init(const BrowserHistory& other){
+		n = other.n;
+		curSize = other.curSize;
+		websites = new HistoryEntry[n];
+		for(int i = 0; i < n; i++){
+			websites[i] = other.websites[i];
+		}
+	}
+
 
 public:
 	
@@ -38,18 +47,16 @@ public:
 	BrowserHistory& operator = (const BrowserHistory& other){
 		if(this != &other){
 			delete websites;
-			n = other.n;
-			curSize = other.curSize;
-			websites = new HistoryEntry[n];
-			for(int i = 0; i < n; i++){
-				websites[i] = other.websites[i];
-			}
+			init(other);
+
 		}
 		return *this;
 	}
 
 	BrowserHistory(const BrowserHistory& other){
-		*this = other;
+		if(this != &other){
+			init(other);
+		}
 	}
 
 	BrowserHistory(size_t _n){

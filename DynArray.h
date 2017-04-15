@@ -10,7 +10,6 @@ private:
 	T *array; //addressOfFirstElement
 	size_t size;
 
-	DynArray ();
 	  //за специални случаи: например, за създаване на масив от масиви
 		//Това е възможно само в методи на класа
 		//в.ж. задачата за "slice" в домашното
@@ -19,6 +18,7 @@ private:
 
 
 public:
+	DynArray ();
 
 	DynArray (const DynArray<T>& other);
 	DynArray (size_t _size);
@@ -30,13 +30,15 @@ public:
 	void operator += (const DynArray<T>& other);
 	DynArray<T> operator + (const DynArray<T>& other);
 	DynArray<T>& operator = (const DynArray<T>& other);
+	void slice(size_t n);
+	void resize(int n);
 	bool operator == (const DynArray<T>& other);
 };
 
 template <typename T>
 T& DynArray<T>::operator [] (const size_t index) const
 {
-	assert (index >= 0 && index < size);
+	//assert (index <= 0 || index > size);
 	return array[index];
 }
 
@@ -201,6 +203,45 @@ bool DynArray<T>::operator == (const DynArray<T>& other)
 
 /*******************My code************************************/
 
-DynArray<DynArray<T> > slice(size_t n){
-	
+
+
+template <typename T>
+void DynArray<T>::resize(int n){
+	int oldSize = size;
+	size += n;
+	assert(size >= 0);
+	T * newArray = new T[size];
+	if(n > 0) n = 0;
+	for(int i = n; i < oldSize; i++){
+		newArray[i+n] = array[i];
+	}
+	delete array;
+	array = newArray;
 }
+
+
+/*template <typename T>
+void DynArray<T>::slice(size_t n){
+	int start = 0, stop = n;
+	size_t iterations = size / n;
+	cout<<iterations<<endl;
+	DynArray<DynArray<T>> result(it);
+	for(int i = 0; i < iterations; i++){
+		cout<<i<<" "<<start<<" "<<stop<<endl;
+		for(int j = start; j < stop; j++){
+			result[i][j] = array[j];
+			cout<<array[j]<<" "<<result[i][j]<<endl;
+		}
+		start += n;
+		stop += n;
+	}
+
+	for(int i = 0; i < result.getsize(); i++){
+		for(int j = 0; j < result[i].getsize(); j++){
+			cout<<result[i][j]<<" ";
+		}cout<<endl;
+	}
+
+	return result;
+}
+*/

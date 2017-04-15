@@ -36,6 +36,16 @@ class Dictionary{
 			n = size;
 		}
 
+		void init(const Dictionary& other){
+			cnt = other.cnt;
+			n = other.n;
+			words = new Word[n];
+			for(int i = 0; i < n; i++){
+				strcpy(words[i].word, other.words[i].word);
+				strcpy(words[i].meaning, other.words[i].meaning);
+			}
+		}
+
 	public:
 
 		Dictionary(unsigned int N){
@@ -50,19 +60,15 @@ class Dictionary{
 
 		Dictionary& operator = (const Dictionary& other){
 			if(this != &other){
-				//delete words;
-				cnt = other.cnt;
-				n = other.n;
-				words = new Word[n];
-				for(int i = 0; i < n; i++){
-					words[i] = other.words[i];
-				}
+				delete words;
+				init(other);
+
 			}
 			return *this;
 		}
 
 		Dictionary(const Dictionary& other){
-			*this = other;
+			init(other);
 		}
 
 		void print(){
@@ -113,7 +119,7 @@ class Dictionary{
 			print();
 		}
 
-		void operator += (Dictionary other){
+		void operator += (const Dictionary& other){
 			if(cnt+other.cnt >= n){
 				int size = cnt+other.cnt;
 				copyOld(size);
@@ -138,6 +144,7 @@ class Dictionary{
 			Dictionary result(cnt+other.cnt);
 			result += *this;
 			result += other;
+			result.cnt = cnt+other.cnt;
 			return result;
 		}
 
