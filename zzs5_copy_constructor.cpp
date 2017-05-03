@@ -41,7 +41,7 @@ void task2(){
 }
 
 void task4(){
-    DynArray<int> a1(6);
+    DynamicArray<int> a1(6);
     a1[0] = 1;
     a1[1] = 2;
     a1[2] = 3;
@@ -51,8 +51,14 @@ void task4(){
     //a1.resize(2);
     //a1.resize(-3);
    // a1.print();
-    a1.slice(4);
-    //cout<<a2[0].getsize()<<" ";
+   DynamicArray<DynamicArray<int>> a2 = a1.slice(4);
+
+    int size = a2.get_size();
+    for(int i = 0; i < size; i++){
+        for(int j = 0; j < a2[i].get_size(); j++){
+            cout<<a2[i][j]<<" ";
+        }cout<<endl;
+    }
 }
 
 int main(){
