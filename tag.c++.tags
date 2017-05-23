@@ -1,0 +1,2046 @@
+# format=tagmanager
+ACCESS_COUNTÃ4ŒeVisibilityType÷0
+ACCESS_DEFAULTÃ4ŒeVisibilityType÷0
+ACCESS_LOCALÃ4ŒeVisibilityType÷0
+ACCESS_PRIVATEÃ4ŒeVisibilityType÷0
+ACCESS_PROTECTEDÃ4ŒeVisibilityType÷0
+ACCESS_PUBLICÃ4ŒeVisibilityType÷0
+ACCESS_UNDEFINEDÃ4ŒeVisibilityType÷0
+ARG_ARGVÃ4Œanon_enum_10÷0
+ARG_FILEÃ4Œanon_enum_10÷0
+ARG_NONEÃ4Œanon_enum_10÷0
+ARG_STRINGÃ4Œanon_enum_10÷0
+AUTHOR_EMAILÃ65536÷0
+AUTHOR_NAMEÃ65536÷0
+AnonymousIDÃ16384÷0œint
+AntParserÃ32768÷0œparserDefinitionFunc
+ArgumentsÃ4096÷0œsArgs
+AsmParserÃ32768÷0œparserDefinitionFunc
+AspParserÃ32768÷0œparserDefinitionFunc
+AssertÃ131072Õ(c)÷0
+AwkParserÃ32768÷0œparserDefinitionFunc
+BACKSLASHÃ4ŒeCharacters÷0
+BIG_ENDIANÃ65536÷0
+BUFSIZÃ65536÷0
+BYTE_ORDERÃ65536÷0
+BasicParserÃ32768÷0œparserDefinitionFunc
+BetaParserÃ32768÷0œparserDefinitionFunc
+CHAR_SYMBOLÃ4ŒeCharacters÷0
+CK_CLASSÃ4Œanon_enum_16÷0
+CK_DEFINEÃ4Œanon_enum_16÷0
+CK_ENUMERATIONÃ4Œanon_enum_16÷0
+CK_ENUMERATORÃ4Œanon_enum_16÷0
+CK_EXTERN_VARIABLEÃ4Œanon_enum_16÷0
+CK_FUNCTIONÃ4Œanon_enum_16÷0
+CK_LOCALÃ4Œanon_enum_16÷0
+CK_MEMBERÃ4Œanon_enum_16÷0
+CK_NAMESPACEÃ4Œanon_enum_16÷0
+CK_PROTOTYPEÃ4Œanon_enum_16÷0
+CK_STRUCTÃ4Œanon_enum_16÷0
+CK_TYPEDEFÃ4Œanon_enum_16÷0
+CK_UNDEFINEDÃ4Œanon_enum_16÷0
+CK_UNIONÃ4Œanon_enum_16÷0
+CK_VARIABLEÃ4Œanon_enum_16÷0
+CKindsÃ16384÷0œkindOption
+CONST_FILEÃ65536÷0
+CONST_OPTIONÃ65536÷0
+CParserÃ16Õ(void)÷0œparserDefinition *
+CParserÃ32768÷0œparserDefinitionFunc
+CRETURNÃ4ŒeCharacters÷0
+CSK_CLASSÃ4Œanon_enum_17÷0
+CSK_DEFINEÃ4Œanon_enum_17÷0
+CSK_ENUMERATIONÃ4Œanon_enum_17÷0
+CSK_ENUMERATORÃ4Œanon_enum_17÷0
+CSK_EVENTÃ4Œanon_enum_17÷0
+CSK_FIELDÃ4Œanon_enum_17÷0
+CSK_INTERFACEÃ4Œanon_enum_17÷0
+CSK_LOCALÃ4Œanon_enum_17÷0
+CSK_METHODÃ4Œanon_enum_17÷0
+CSK_NAMESPACEÃ4Œanon_enum_17÷0
+CSK_PROPERTYÃ4Œanon_enum_17÷0
+CSK_STRUCTÃ4Œanon_enum_17÷0
+CSK_TYPEDEFÃ4Œanon_enum_17÷0
+CSK_UNDEFINEDÃ4Œanon_enum_17÷0
+CobolParserÃ32768÷0œparserDefinitionFunc
+CollectingSignatureÃ16384÷0œboolean
+CppParserÃ16Õ(void)÷0œparserDefinition *
+CppParserÃ32768÷0œparserDefinitionFunc
+CsharpKindsÃ16384÷0œkindOption
+CsharpParserÃ16Õ(void)÷0œparserDefinition *
+CsharpParserÃ32768÷0œparserDefinitionFunc
+CurrentDirectoryÃ32768÷0œchar *
+CurrentStatementÃ16384÷0œstatementInfo *
+DEBUG_CPPÃ4ŒeDebugLevels÷0
+DEBUG_OPTIONÃ4ŒeDebugLevels÷0
+DEBUG_PARSEÃ4ŒeDebugLevels÷0
+DEBUG_RAWÃ4ŒeDebugLevels÷0
+DEBUG_READÃ4ŒeDebugLevels÷0
+DEBUG_STATUSÃ4ŒeDebugLevels÷0
+DECL_BASEÃ4ŒeDeclaration÷0
+DECL_CLASSÃ4ŒeDeclaration÷0
+DECL_COUNTÃ4ŒeDeclaration÷0
+DECL_ENUMÃ4ŒeDeclaration÷0
+DECL_EVENTÃ4ŒeDeclaration÷0
+DECL_FUNCTIONÃ4ŒeDeclaration÷0
+DECL_IGNOREÃ4ŒeDeclaration÷0
+DECL_INTERFACEÃ4ŒeDeclaration÷0
+DECL_NAMESPACEÃ4ŒeDeclaration÷0
+DECL_NOMANGLEÃ4ŒeDeclaration÷0
+DECL_NONEÃ4ŒeDeclaration÷0
+DECL_PACKAGEÃ4ŒeDeclaration÷0
+DECL_PROGRAMÃ4ŒeDeclaration÷0
+DECL_STRUCTÃ4ŒeDeclaration÷0
+DECL_TASKÃ4ŒeDeclaration÷0
+DECL_UNIONÃ4ŒeDeclaration÷0
+DOUBLE_QUOTEÃ4ŒeCharacters÷0
+DebugStatementÃ131072Õ(x)÷0
+DosBatchParserÃ32768÷0œparserDefinitionFunc
+EOFÃ65536÷0
+EX_LINENUMÃ4ŒeLocate÷0
+EX_MIXÃ4ŒeLocate÷0
+EX_PATTERNÃ4ŒeLocate÷0
+EiffelParserÃ32768÷0œparserDefinitionFunc
+ErlangParserÃ32768÷0œparserDefinitionFunc
+ExceptionÃ16384÷0œjmp_buf
+ExceptionBraceFormattingErrorÃ4ŒeException÷0
+ExceptionEOFÃ4ŒeException÷0
+ExceptionFormattingErrorÃ4ŒeException÷0
+ExceptionNoneÃ4ŒeException÷0
+FALSEÃ65536÷0
+FATALÃ4ŒeErrorTypes÷0
+FILEÃ4096÷0œ_IO_FILE
+FILENAME_MAXÃ65536÷0
+FOPEN_MAXÃ65536÷0
+FORMFEEDÃ4ŒeCharacters÷0
+FileÃ32768÷0œconst inputFile
+FlexParserÃ32768÷0œparserDefinitionFunc
+FortranParserÃ32768÷0œparserDefinitionFunc
+HtmlParserÃ32768÷0œparserDefinitionFunc
+IMP_ABSTRACTÃ4ŒeImplementation÷0
+IMP_COUNTÃ4ŒeImplementation÷0
+IMP_DEFAULTÃ4ŒeImplementation÷0
+IMP_PURE_VIRTUALÃ4ŒeImplementation÷0
+IMP_VIRTUALÃ4ŒeImplementation÷0
+JK_ACCESSÃ4Œanon_enum_18÷0
+JK_CLASSÃ4Œanon_enum_18÷0
+JK_CLASS_PREFIXÃ4Œanon_enum_18÷0
+JK_ENUMÃ4Œanon_enum_18÷0
+JK_ENUM_CONSTANTÃ4Œanon_enum_18÷0
+JK_FIELDÃ4Œanon_enum_18÷0
+JK_INTERFACEÃ4Œanon_enum_18÷0
+JK_LOCALÃ4Œanon_enum_18÷0
+JK_METHODÃ4Œanon_enum_18÷0
+JK_PACKAGEÃ4Œanon_enum_18÷0
+JK_UNDEFINEDÃ4Œanon_enum_18÷0
+JavaKindsÃ16384÷0œkindOption
+JavaParserÃ16Õ(void)÷0œparserDefinition *
+JavaParserÃ32768÷0œparserDefinitionFunc
+JavaScriptParserÃ32768÷0œparserDefinitionFunc
+KEYWORD_ABSTRACTÃ4ŒeKeywordId÷0
+KEYWORD_ATTRIBUTEÃ4ŒeKeywordId÷0
+KEYWORD_BAD_STATEÃ4ŒeKeywordId÷0
+KEYWORD_BAD_TRANSÃ4ŒeKeywordId÷0
+KEYWORD_BINDÃ4ŒeKeywordId÷0
+KEYWORD_BIND_VARÃ4ŒeKeywordId÷0
+KEYWORD_BITÃ4ŒeKeywordId÷0
+KEYWORD_BOOLEANÃ4ŒeKeywordId÷0
+KEYWORD_BYTEÃ4ŒeKeywordId÷0
+KEYWORD_CASEÃ4ŒeKeywordId÷0
+KEYWORD_CATCHÃ4ŒeKeywordId÷0
+KEYWORD_CHARÃ4ŒeKeywordId÷0
+KEYWORD_CLASSÃ4ŒeKeywordId÷0
+KEYWORD_CONSTÃ4ŒeKeywordId÷0
+KEYWORD_CONSTRAINTÃ4ŒeKeywordId÷0
+KEYWORD_COVERAGE_BLOCKÃ4ŒeKeywordId÷0
+KEYWORD_COVERAGE_DEFÃ4ŒeKeywordId÷0
+KEYWORD_DEFAULTÃ4ŒeKeywordId÷0
+KEYWORD_DELEGATEÃ4ŒeKeywordId÷0
+KEYWORD_DELETEÃ4ŒeKeywordId÷0
+KEYWORD_DOÃ4ŒeKeywordId÷0
+KEYWORD_DOUBLEÃ4ŒeKeywordId÷0
+KEYWORD_ELSEÃ4ŒeKeywordId÷0
+KEYWORD_ENUMÃ4ŒeKeywordId÷0
+KEYWORD_EVENTÃ4ŒeKeywordId÷0
+KEYWORD_EXPLICITÃ4ŒeKeywordId÷0
+KEYWORD_EXTENDSÃ4ŒeKeywordId÷0
+KEYWORD_EXTERNÃ4ŒeKeywordId÷0
+KEYWORD_FINALÃ4ŒeKeywordId÷0
+KEYWORD_FLOATÃ4ŒeKeywordId÷0
+KEYWORD_FORÃ4ŒeKeywordId÷0
+KEYWORD_FOREACHÃ4ŒeKeywordId÷0
+KEYWORD_FRIENDÃ4ŒeKeywordId÷0
+KEYWORD_FUNCTIONÃ4ŒeKeywordId÷0
+KEYWORD_GOTOÃ4ŒeKeywordId÷0
+KEYWORD_IFÃ4ŒeKeywordId÷0
+KEYWORD_IMPLEMENTSÃ4ŒeKeywordId÷0
+KEYWORD_IMPORTÃ4ŒeKeywordId÷0
+KEYWORD_INLINEÃ4ŒeKeywordId÷0
+KEYWORD_INOUTÃ4ŒeKeywordId÷0
+KEYWORD_INPUTÃ4ŒeKeywordId÷0
+KEYWORD_INTÃ4ŒeKeywordId÷0
+KEYWORD_INTEGERÃ4ŒeKeywordId÷0
+KEYWORD_INTERFACEÃ4ŒeKeywordId÷0
+KEYWORD_INTERNALÃ4ŒeKeywordId÷0
+KEYWORD_LOCALÃ4ŒeKeywordId÷0
+KEYWORD_LONGÃ4ŒeKeywordId÷0
+KEYWORD_MUTABLEÃ4ŒeKeywordId÷0
+KEYWORD_M_BAD_STATEÃ4ŒeKeywordId÷0
+KEYWORD_M_BAD_TRANSÃ4ŒeKeywordId÷0
+KEYWORD_M_STATEÃ4ŒeKeywordId÷0
+KEYWORD_M_TRANSÃ4ŒeKeywordId÷0
+KEYWORD_NAMESPACEÃ4ŒeKeywordId÷0
+KEYWORD_NATIVEÃ4ŒeKeywordId÷0
+KEYWORD_NEWÃ4ŒeKeywordId÷0
+KEYWORD_NEWCOVÃ4ŒeKeywordId÷0
+KEYWORD_NONEÃ4ŒeKeywordId÷0
+KEYWORD_OPERATORÃ4ŒeKeywordId÷0
+KEYWORD_OUTPUTÃ4ŒeKeywordId÷0
+KEYWORD_OVERLOADÃ4ŒeKeywordId÷0
+KEYWORD_OVERRIDEÃ4ŒeKeywordId÷0
+KEYWORD_PACKAGEÃ4ŒeKeywordId÷0
+KEYWORD_PACKEDÃ4ŒeKeywordId÷0
+KEYWORD_PORTÃ4ŒeKeywordId÷0
+KEYWORD_PRIVATEÃ4ŒeKeywordId÷0
+KEYWORD_PROGRAMÃ4ŒeKeywordId÷0
+KEYWORD_PROTECTEDÃ4ŒeKeywordId÷0
+KEYWORD_PUBLICÃ4ŒeKeywordId÷0
+KEYWORD_REGISTERÃ4ŒeKeywordId÷0
+KEYWORD_RETURNÃ4ŒeKeywordId÷0
+KEYWORD_SHADOWÃ4ŒeKeywordId÷0
+KEYWORD_SHORTÃ4ŒeKeywordId÷0
+KEYWORD_SIGNEDÃ4ŒeKeywordId÷0
+KEYWORD_STATEÃ4ŒeKeywordId÷0
+KEYWORD_STATICÃ4ŒeKeywordId÷0
+KEYWORD_STRINGÃ4ŒeKeywordId÷0
+KEYWORD_STRUCTÃ4ŒeKeywordId÷0
+KEYWORD_SWITCHÃ4ŒeKeywordId÷0
+KEYWORD_SYNCHRONIZEDÃ4ŒeKeywordId÷0
+KEYWORD_TASKÃ4ŒeKeywordId÷0
+KEYWORD_TEMPLATEÃ4ŒeKeywordId÷0
+KEYWORD_THISÃ4ŒeKeywordId÷0
+KEYWORD_THROWÃ4ŒeKeywordId÷0
+KEYWORD_THROWSÃ4ŒeKeywordId÷0
+KEYWORD_TRANSÃ4ŒeKeywordId÷0
+KEYWORD_TRANSIENTÃ4ŒeKeywordId÷0
+KEYWORD_TRANSITIONÃ4ŒeKeywordId÷0
+KEYWORD_TRYÃ4ŒeKeywordId÷0
+KEYWORD_TYPEDEFÃ4ŒeKeywordId÷0
+KEYWORD_TYPENAMEÃ4ŒeKeywordId÷0
+KEYWORD_UINTÃ4ŒeKeywordId÷0
+KEYWORD_ULONGÃ4ŒeKeywordId÷0
+KEYWORD_UNIONÃ4ŒeKeywordId÷0
+KEYWORD_UNSIGNEDÃ4ŒeKeywordId÷0
+KEYWORD_USHORTÃ4ŒeKeywordId÷0
+KEYWORD_USINGÃ4ŒeKeywordId÷0
+KEYWORD_VIRTUALÃ4ŒeKeywordId÷0
+KEYWORD_VOIDÃ4ŒeKeywordId÷0
+KEYWORD_VOLATILEÃ4ŒeKeywordId÷0
+KEYWORD_WCHAR_TÃ4ŒeKeywordId÷0
+KEYWORD_WHILEÃ4ŒeKeywordId÷0
+KIND_COUNTÃ131072Õ(kindTable)÷0
+KeywordTableÃ16384÷0œconst keywordDesc
+LANG_AUTOÃ65536÷0
+LANG_IGNOREÃ65536÷0
+LITTLE_ENDIANÃ65536÷0
+L_ctermidÃ65536÷0
+L_cuseridÃ65536÷0
+L_tmpnamÃ65536÷0
+Lang_cÃ16384÷0œlangType
+Lang_cppÃ16384÷0œlangType
+Lang_csharpÃ16384÷0œlangType
+Lang_javaÃ16384÷0œlangType
+Lang_veraÃ16384÷0œlangType
+LispParserÃ32768÷0œparserDefinitionFunc
+LuaParserÃ32768÷0œparserDefinitionFunc
+MakefileParserÃ32768÷0œparserDefinitionFunc
+MatLabParserÃ32768÷0œparserDefinitionFunc
+NDEBUGÃ65536÷0
+NEWLINEÃ4ŒeCharacters÷0
+NULLÃ65536÷0
+NumTokensÃ4Œanon_enum_15÷0
+OPTION_LONGÃ4Œanon_enum_12÷0
+OPTION_NONEÃ4Œanon_enum_12÷0
+OPTION_SHORTÃ4Œanon_enum_12÷0
+OUTPUT_PATH_SEPARATORÃ65536÷0
+OcamlParserÃ32768÷0œparserDefinitionFunc
+OptionÃ32768÷0œconst optionValues
+PARSER_LISTÃ65536÷0
+PATH_SEPARATORÃ65536÷0
+PDP_ENDIANÃ65536÷0
+PERRORÃ4ŒeErrorTypes÷0
+PROGRAM_COPYRIGHTÃ65536÷0
+PROGRAM_NAMEÃ65536÷0
+PROGRAM_URLÃ65536÷0
+PROGRAM_VERSIONÃ65536÷0
+P_tmpdirÃ65536÷0
+PascalParserÃ32768÷0œparserDefinitionFunc
+PerlParserÃ32768÷0œparserDefinitionFunc
+PhpParserÃ32768÷0œparserDefinitionFunc
+PrintStatusÃ131072Õ(x)÷0
+PythonParserÃ32768÷0œparserDefinitionFunc
+RexxParserÃ32768÷0œparserDefinitionFunc
+RubyParserÃ32768÷0œparserDefinitionFunc
+SCOPE_COUNTÃ4ŒeTagScope÷0
+SCOPE_EXTERNÃ4ŒeTagScope÷0
+SCOPE_FRIENDÃ4ŒeTagScope÷0
+SCOPE_GLOBALÃ4ŒeTagScope÷0
+SCOPE_STATICÃ4ŒeTagScope÷0
+SCOPE_TYPEDEFÃ4ŒeTagScope÷0
+SEEK_CURÃ65536÷0
+SEEK_DATAÃ65536÷0
+SEEK_ENDÃ65536÷0
+SEEK_HOLEÃ65536÷0
+SEEK_SETÃ65536÷0
+SINGLE_QUOTEÃ4ŒeCharacters÷0
+SO_FOLDSORTEDÃ4ŒsortType÷0
+SO_SORTEDÃ4ŒsortType÷0
+SO_UNSORTEDÃ4ŒsortType÷0
+SPACEÃ4ŒeCharacters÷0
+STRING_SYMBOLÃ4ŒeCharacters÷0
+SchemeParserÃ32768÷0œparserDefinitionFunc
+ShParserÃ32768÷0œparserDefinitionFunc
+SignatureÃ16384÷0œvString *
+SlangParserÃ32768÷0œparserDefinitionFunc
+SmlParserÃ32768÷0œparserDefinitionFunc
+SqlParserÃ32768÷0œparserDefinitionFunc
+TABÃ4ŒeCharacters÷0
+TAG_CLASSÃ4ŒeTagType÷0
+TAG_COUNTÃ4ŒeTagType÷0
+TAG_ENUMÃ4ŒeTagType÷0
+TAG_ENUMERATORÃ4ŒeTagType÷0
+TAG_EVENTÃ4ŒeTagType÷0
+TAG_EXTERN_VARÃ4ŒeTagType÷0
+TAG_FIELDÃ4ŒeTagType÷0
+TAG_FUNCTIONÃ4ŒeTagType÷0
+TAG_INTERFACEÃ4ŒeTagType÷0
+TAG_LOCALÃ4ŒeTagType÷0
+TAG_MEMBERÃ4ŒeTagType÷0
+TAG_METHODÃ4ŒeTagType÷0
+TAG_NAMESPACEÃ4ŒeTagType÷0
+TAG_PACKAGEÃ4ŒeTagType÷0
+TAG_PROGRAMÃ4ŒeTagType÷0
+TAG_PROPERTYÃ4ŒeTagType÷0
+TAG_PROTOTYPEÃ4ŒeTagType÷0
+TAG_STRUCTÃ4ŒeTagType÷0
+TAG_TASKÃ4ŒeTagType÷0
+TAG_TYPEDEFÃ4ŒeTagType÷0
+TAG_UNDEFINEDÃ4ŒeTagType÷0
+TAG_UNIONÃ4ŒeTagType÷0
+TAG_VARIABLEÃ4ŒeTagType÷0
+TMP_MAXÃ65536÷0
+TOKEN_ARGSÃ4ŒeTokenType÷0
+TOKEN_BRACE_CLOSEÃ4ŒeTokenType÷0
+TOKEN_BRACE_OPENÃ4ŒeTokenType÷0
+TOKEN_COLONÃ4ŒeTokenType÷0
+TOKEN_COMMAÃ4ŒeTokenType÷0
+TOKEN_COUNTÃ4ŒeTokenType÷0
+TOKEN_DOUBLE_COLONÃ4ŒeTokenType÷0
+TOKEN_KEYWORDÃ4ŒeTokenType÷0
+TOKEN_NAMEÃ4ŒeTokenType÷0
+TOKEN_NONEÃ4ŒeTokenType÷0
+TOKEN_PACKAGEÃ4ŒeTokenType÷0
+TOKEN_PAREN_NAMEÃ4ŒeTokenType÷0
+TOKEN_SEMICOLONÃ4ŒeTokenType÷0
+TOKEN_SPECÃ4ŒeTokenType÷0
+TRUEÃ65536÷0
+TagFileÃ32768÷0œtagFile
+TclParserÃ32768÷0œparserDefinitionFunc
+TexParserÃ32768÷0œparserDefinitionFunc
+VK_CLASSÃ4Œanon_enum_19÷0
+VK_DEFINEÃ4Œanon_enum_19÷0
+VK_ENUMERATIONÃ4Œanon_enum_19÷0
+VK_ENUMERATORÃ4Œanon_enum_19÷0
+VK_EXTERN_VARIABLEÃ4Œanon_enum_19÷0
+VK_FUNCTIONÃ4Œanon_enum_19÷0
+VK_LOCALÃ4Œanon_enum_19÷0
+VK_MEMBERÃ4Œanon_enum_19÷0
+VK_PROGRAMÃ4Œanon_enum_19÷0
+VK_PROTOTYPEÃ4Œanon_enum_19÷0
+VK_TASKÃ4Œanon_enum_19÷0
+VK_TYPEDEFÃ4Œanon_enum_19÷0
+VK_UNDEFINEDÃ4Œanon_enum_19÷0
+VK_VARIABLEÃ4Œanon_enum_19÷0
+VSTRING_PUTC_MACROÃ65536÷0
+VTABÃ4ŒeCharacters÷0
+VeraKindsÃ16384÷0œkindOption
+VeraParserÃ16Õ(void)÷0œparserDefinition *
+VeraParserÃ32768÷0œparserDefinitionFunc
+VerilogParserÃ32768÷0œparserDefinitionFunc
+VhdlParserÃ32768÷0œparserDefinitionFunc
+VimParserÃ32768÷0œparserDefinitionFunc
+WARNINGÃ4ŒeErrorTypes÷0
+WHOLE_FILEÃ65536÷0
+YaccParserÃ32768÷0œparserDefinitionFunc
+_ANSI_STDARG_H_Ã65536÷0
+_ARGS_HÃ65536÷0
+_ATFILE_SOURCEÃ65536÷0
+_BITS_BYTESWAP_HÃ65536÷0
+_BITS_SETJMP_HÃ65536÷0
+_BITS_TYPESIZES_HÃ65536÷0
+_BITS_TYPES_HÃ65536÷0
+_BSD_SIZE_T_Ã65536÷0
+_BSD_SIZE_T_DEFINED_Ã65536÷0
+_CTAGS_HÃ65536÷0
+_CTYPE_HÃ65536÷0
+_DEBUG_HÃ65536÷0
+_DEFAULT_SOURCEÃ65536÷0
+_ENDIAN_HÃ65536÷0
+_ENTRY_HÃ65536÷0
+_FEATURES_HÃ65536÷0
+_GCC_SIZE_TÃ65536÷0
+_GENERAL_HÃ65536÷0
+_GET_HÃ65536÷0
+_GNU_SOURCEÃ65536÷0
+_G_BUFSIZÃ65536÷0
+_G_HAVE_MMAPÃ65536÷0
+_G_HAVE_MREMAPÃ65536÷0
+_G_HAVE_ST_BLKSIZEÃ65536÷0
+_G_IO_IO_FILE_VERSIONÃ65536÷0
+_G_config_hÃ65536÷0
+_G_fpos64_tÃ4096÷0œanon_struct_5
+_G_fpos_tÃ4096÷0œanon_struct_4
+_G_va_listÃ65536÷0
+_IOFBFÃ65536÷0
+_IOLBFÃ65536÷0
+_IONBFÃ65536÷0
+_IOS_APPENDÃ65536÷0
+_IOS_ATENDÃ65536÷0
+_IOS_BINÃ65536÷0
+_IOS_INPUTÃ65536÷0
+_IOS_NOCREATEÃ65536÷0
+_IOS_NOREPLACEÃ65536÷0
+_IOS_OUTPUTÃ65536÷0
+_IOS_TRUNCÃ65536÷0
+_IO_2_1_stderr_Ã32768÷0œ_IO_FILE_plus
+_IO_2_1_stdin_Ã32768÷0œ_IO_FILE_plus
+_IO_2_1_stdout_Ã32768÷0œ_IO_FILE_plus
+_IO_BAD_SEENÃ65536÷0
+_IO_BEÃ131072Õ(expr,res)÷0
+_IO_BOOLALPHAÃ65536÷0
+_IO_BUFSIZÃ65536÷0
+_IO_CURRENTLY_PUTTINGÃ65536÷0
+_IO_DECÃ65536÷0
+_IO_DELETE_DONT_CLOSEÃ65536÷0
+_IO_DONT_CLOSEÃ65536÷0
+_IO_EOF_SEENÃ65536÷0
+_IO_ERR_SEENÃ65536÷0
+_IO_FILEÃ2048÷0
+_IO_FILEÃ32768÷0
+_IO_FILE_plusÃ32768÷0
+_IO_FIXEDÃ65536÷0
+_IO_FLAGS2_MMAPÃ65536÷0
+_IO_FLAGS2_NOTCANCELÃ65536÷0
+_IO_FLAGS2_USER_WBUFÃ65536÷0
+_IO_HAVE_ST_BLKSIZEÃ65536÷0
+_IO_HEXÃ65536÷0
+_IO_INTERNALÃ65536÷0
+_IO_IN_BACKUPÃ65536÷0
+_IO_IS_APPENDINGÃ65536÷0
+_IO_IS_FILEBUFÃ65536÷0
+_IO_LEFTÃ65536÷0
+_IO_LINE_BUFÃ65536÷0
+_IO_LINKEDÃ65536÷0
+_IO_MAGICÃ65536÷0
+_IO_MAGIC_MASKÃ65536÷0
+_IO_NO_READSÃ65536÷0
+_IO_NO_WRITESÃ65536÷0
+_IO_OCTÃ65536÷0
+_IO_PENDING_OUTPUT_COUNTÃ131072Õ(_fp)÷0
+_IO_RIGHTÃ65536÷0
+_IO_SCIENTIFICÃ65536÷0
+_IO_SHOWBASEÃ65536÷0
+_IO_SHOWPOINTÃ65536÷0
+_IO_SHOWPOSÃ65536÷0
+_IO_SKIPWSÃ65536÷0
+_IO_STDIOÃ65536÷0
+_IO_STDIO_HÃ65536÷0
+_IO_TIED_PUT_GETÃ65536÷0
+_IO_UNBUFFEREDÃ65536÷0
+_IO_UNIFIED_JUMPTABLESÃ65536÷0
+_IO_UNITBUFÃ65536÷0
+_IO_UPPERCASEÃ65536÷0
+_IO_USER_BUFÃ65536÷0
+_IO_USER_LOCKÃ65536÷0
+_IO_backup_baseÃ64Œ_IO_FILE÷0œchar *
+_IO_buf_baseÃ64Œ_IO_FILE÷0œchar *
+_IO_buf_endÃ64Œ_IO_FILE÷0œchar *
+_IO_cleanup_region_endÃ131072Õ(_Doit)÷0
+_IO_cleanup_region_startÃ131072Õ(_fct,_fp)÷0
+_IO_cookie_fileÃ32768÷0
+_IO_cookie_initÃ1024Õ(struct _IO_cookie_file *__cfile, int __read_write, void *__cookie, _IO_cookie_io_functions_t __fns)÷0œvoid
+_IO_cookie_io_functions_tÃ4096÷0œanon_struct_6
+_IO_feofÃ1024Õ(_IO_FILE *__fp)÷0œint
+_IO_feof_unlockedÃ131072Õ(__fp)÷0
+_IO_ferrorÃ1024Õ(_IO_FILE *__fp)÷0œint
+_IO_ferror_unlockedÃ131072Õ(__fp)÷0
+_IO_file_flagsÃ65536÷0
+_IO_flockfileÃ1024Õ(_IO_FILE *)÷0œvoid
+_IO_flockfileÃ131072Õ(_fp)÷0
+_IO_fpos64_tÃ65536÷0
+_IO_fpos_tÃ65536÷0
+_IO_free_backup_areaÃ1024Õ(_IO_FILE *)÷0œvoid
+_IO_ftrylockfileÃ1024Õ(_IO_FILE *)÷0œint
+_IO_ftrylockfileÃ131072Õ(_fp)÷0
+_IO_funlockfileÃ1024Õ(_IO_FILE *)÷0œvoid
+_IO_funlockfileÃ131072Õ(_fp)÷0
+_IO_getcÃ1024Õ(_IO_FILE *__fp)÷0œint
+_IO_getc_unlockedÃ131072Õ(_fp)÷0
+_IO_iconv_tÃ65536÷0
+_IO_jump_tÃ32768÷0
+_IO_lock_tÃ4096÷0œvoid
+_IO_markerÃ2048÷0
+_IO_off64_tÃ65536÷0
+_IO_off_tÃ65536÷0
+_IO_padnÃ1024Õ(_IO_FILE *, int, __ssize_t)÷0œ__ssize_t
+_IO_peekcÃ131072Õ(_fp)÷0
+_IO_peekc_lockedÃ1024Õ(_IO_FILE *__fp)÷0œint
+_IO_peekc_unlockedÃ131072Õ(_fp)÷0
+_IO_pid_tÃ65536÷0
+_IO_putcÃ1024Õ(int __c, _IO_FILE *__fp)÷0œint
+_IO_putc_unlockedÃ131072Õ(_ch,_fp)÷0
+_IO_read_baseÃ64Œ_IO_FILE÷0œchar *
+_IO_read_endÃ64Œ_IO_FILE÷0œchar *
+_IO_read_ptrÃ64Œ_IO_FILE÷0œchar *
+_IO_save_baseÃ64Œ_IO_FILE÷0œchar *
+_IO_save_endÃ64Œ_IO_FILE÷0œchar *
+_IO_seekoffÃ1024Õ(_IO_FILE *, __off64_t, int, int)÷0œ__off64_t
+_IO_seekposÃ1024Õ(_IO_FILE *, __off64_t, int)÷0œ__off64_t
+_IO_sgetnÃ1024Õ(_IO_FILE *, void *, size_t)÷0œsize_t
+_IO_size_tÃ65536÷0
+_IO_ssize_tÃ65536÷0
+_IO_stderrÃ65536÷0
+_IO_stdinÃ65536÷0
+_IO_stdoutÃ65536÷0
+_IO_uid_tÃ65536÷0
+_IO_va_listÃ65536÷0
+_IO_vfprintfÃ1024Õ(_IO_FILE *__restrict, const char *__restrict, __gnuc_va_list)÷0œint
+_IO_vfscanfÃ1024Õ(_IO_FILE * __restrict, const char * __restrict, __gnuc_va_list, int *__restrict)÷0œint
+_IO_wint_tÃ65536÷0
+_IO_write_baseÃ64Œ_IO_FILE÷0œchar *
+_IO_write_endÃ64Œ_IO_FILE÷0œchar *
+_IO_write_ptrÃ64Œ_IO_FILE÷0œchar *
+_ISOC11_SOURCEÃ65536÷0
+_ISOC95_SOURCEÃ65536÷0
+_ISOC99_SOURCEÃ65536÷0
+_ISalnumÃ4Œanon_enum_13÷0
+_ISalphaÃ4Œanon_enum_13÷0
+_ISbitÃ131072Õ(bit)÷0
+_ISblankÃ4Œanon_enum_13÷0
+_IScntrlÃ4Œanon_enum_13÷0
+_ISdigitÃ4Œanon_enum_13÷0
+_ISgraphÃ4Œanon_enum_13÷0
+_ISlowerÃ4Œanon_enum_13÷0
+_ISprintÃ4Œanon_enum_13÷0
+_ISpunctÃ4Œanon_enum_13÷0
+_ISspaceÃ4Œanon_enum_13÷0
+_ISupperÃ4Œanon_enum_13÷0
+_ISxdigitÃ4Œanon_enum_13÷0
+_KEYWORD_HÃ65536÷0
+_LARGEFILE64_SOURCEÃ65536÷0
+_LARGEFILE_SOURCEÃ65536÷0
+_LP64Ã65536÷0
+_OLD_STDIO_MAGICÃ65536÷0
+_OPTIONS_HÃ65536÷0
+_PARSERS_HÃ65536÷0
+_PARSE_HÃ65536÷0
+_POSIX_C_SOURCEÃ65536÷0
+_POSIX_SOURCEÃ65536÷0
+_READ_HÃ65536÷0
+_ROUTINES_HÃ65536÷0
+_SETJMP_HÃ65536÷0
+_SIGSET_H_typesÃ65536÷0
+_SIGSET_NWORDSÃ65536÷0
+_SIZET_Ã65536÷0
+_SIZE_TÃ65536÷0
+_SIZE_T_Ã65536÷0
+_SIZE_T_DECLAREDÃ65536÷0
+_SIZE_T_DEFINEDÃ65536÷0
+_SIZE_T_DEFINED_Ã65536÷0
+_STDARG_HÃ65536÷0
+_STDC_PREDEF_HÃ65536÷0
+_STDIO_HÃ65536÷0
+_STDIO_USES_IOSTREAMÃ65536÷0
+_STRING_HÃ65536÷0
+_STRLIST_HÃ65536÷0
+_SYS_CDEFS_HÃ65536÷0
+_SYS_SIZE_T_HÃ65536÷0
+_T_SIZEÃ65536÷0
+_T_SIZE_Ã65536÷0
+_VA_LISTÃ65536÷0
+_VA_LIST_Ã65536÷0
+_VA_LIST_DEFINEDÃ65536÷0
+_VA_LIST_T_HÃ65536÷0
+_VSTRING_HÃ65536÷0
+_XLOCALE_HÃ65536÷0
+_XOPEN_SOURCEÃ65536÷0
+_XOPEN_SOURCE_EXTENDEDÃ65536÷0
+__ASMNAMEÃ131072Õ(cname)÷0
+__ASMNAME2Ã131072Õ(prefix,cname)÷0
+__ATOMIC_ACQUIREÃ65536÷0
+__ATOMIC_ACQ_RELÃ65536÷0
+__ATOMIC_CONSUMEÃ65536÷0
+__ATOMIC_HLE_ACQUIREÃ65536÷0
+__ATOMIC_HLE_RELEASEÃ65536÷0
+__ATOMIC_RELAXEDÃ65536÷0
+__ATOMIC_RELEASEÃ65536÷0
+__ATOMIC_SEQ_CSTÃ65536÷0
+__BEGIN_DECLSÃ65536÷0
+__BEGIN_NAMESPACE_C99Ã65536÷0
+__BEGIN_NAMESPACE_STDÃ65536÷0
+__BIGGEST_ALIGNMENT__Ã65536÷0
+__BIG_ENDIANÃ65536÷0
+__BLKCNT64_T_TYPEÃ65536÷0
+__BLKCNT_T_TYPEÃ65536÷0
+__BLKSIZE_T_TYPEÃ65536÷0
+__BYTE_ORDERÃ65536÷0
+__BYTE_ORDER__Ã65536÷0
+__CHAR16_TYPE__Ã65536÷0
+__CHAR32_TYPE__Ã65536÷0
+__CHAR_BIT__Ã65536÷0
+__CLOCKID_T_TYPEÃ65536÷0
+__CLOCK_T_TYPEÃ65536÷0
+__CONCATÃ131072Õ(x,y)÷0
+__CORRECT_ISO_CPP_STRING_H_PROTOÃ65536÷0
+__CPU_MASK_TYPEÃ65536÷0
+__DADDR_T_TYPEÃ65536÷0
+__DBL_DECIMAL_DIG__Ã65536÷0
+__DBL_DENORM_MIN__Ã65536÷0
+__DBL_DIG__Ã65536÷0
+__DBL_EPSILON__Ã65536÷0
+__DBL_HAS_DENORM__Ã65536÷0
+__DBL_HAS_INFINITY__Ã65536÷0
+__DBL_HAS_QUIET_NAN__Ã65536÷0
+__DBL_MANT_DIG__Ã65536÷0
+__DBL_MAX_10_EXP__Ã65536÷0
+__DBL_MAX_EXP__Ã65536÷0
+__DBL_MAX__Ã65536÷0
+__DBL_MIN_10_EXP__Ã65536÷0
+__DBL_MIN_EXP__Ã65536÷0
+__DBL_MIN__Ã65536÷0
+__DEC128_EPSILON__Ã65536÷0
+__DEC128_MANT_DIG__Ã65536÷0
+__DEC128_MAX_EXP__Ã65536÷0
+__DEC128_MAX__Ã65536÷0
+__DEC128_MIN_EXP__Ã65536÷0
+__DEC128_MIN__Ã65536÷0
+__DEC128_SUBNORMAL_MIN__Ã65536÷0
+__DEC32_EPSILON__Ã65536÷0
+__DEC32_MANT_DIG__Ã65536÷0
+__DEC32_MAX_EXP__Ã65536÷0
+__DEC32_MAX__Ã65536÷0
+__DEC32_MIN_EXP__Ã65536÷0
+__DEC32_MIN__Ã65536÷0
+__DEC32_SUBNORMAL_MIN__Ã65536÷0
+__DEC64_EPSILON__Ã65536÷0
+__DEC64_MANT_DIG__Ã65536÷0
+__DEC64_MAX_EXP__Ã65536÷0
+__DEC64_MAX__Ã65536÷0
+__DEC64_MIN_EXP__Ã65536÷0
+__DEC64_MIN__Ã65536÷0
+__DEC64_SUBNORMAL_MIN__Ã65536÷0
+__DECIMAL_BID_FORMAT__Ã65536÷0
+__DECIMAL_DIG__Ã65536÷0
+__DEC_EVAL_METHOD__Ã65536÷0
+__DEPRECATEDÃ65536÷0
+__DEV_T_TYPEÃ65536÷0
+__ELF__Ã65536÷0
+__END_DECLSÃ65536÷0
+__END_NAMESPACE_C99Ã65536÷0
+__END_NAMESPACE_STDÃ65536÷0
+__EXCEPTIONSÃ65536÷0
+__FD_SETSIZEÃ65536÷0
+__FILEÃ4096÷0œ_IO_FILE
+__FILE_definedÃ65536÷0
+__FINITE_MATH_ONLY__Ã65536÷0
+__FLOAT_WORD_ORDERÃ65536÷0
+__FLOAT_WORD_ORDER__Ã65536÷0
+__FLT_DECIMAL_DIG__Ã65536÷0
+__FLT_DENORM_MIN__Ã65536÷0
+__FLT_DIG__Ã65536÷0
+__FLT_EPSILON__Ã65536÷0
+__FLT_EVAL_METHOD__Ã65536÷0
+__FLT_HAS_DENORM__Ã65536÷0
+__FLT_HAS_INFINITY__Ã65536÷0
+__FLT_HAS_QUIET_NAN__Ã65536÷0
+__FLT_MANT_DIG__Ã65536÷0
+__FLT_MAX_10_EXP__Ã65536÷0
+__FLT_MAX_EXP__Ã65536÷0
+__FLT_MAX__Ã65536÷0
+__FLT_MIN_10_EXP__Ã65536÷0
+__FLT_MIN_EXP__Ã65536÷0
+__FLT_MIN__Ã65536÷0
+__FLT_RADIX__Ã65536÷0
+__FSBLKCNT64_T_TYPEÃ65536÷0
+__FSBLKCNT_T_TYPEÃ65536÷0
+__FSFILCNT64_T_TYPEÃ65536÷0
+__FSFILCNT_T_TYPEÃ65536÷0
+__FSID_T_TYPEÃ65536÷0
+__FSWORD_T_TYPEÃ65536÷0
+__FXSR__Ã65536÷0
+__GCC_ASM_FLAG_OUTPUTS__Ã65536÷0
+__GCC_ATOMIC_BOOL_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_CHAR16_T_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_CHAR32_T_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_CHAR_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_INT_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_LLONG_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_LONG_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_POINTER_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_SHORT_LOCK_FREEÃ65536÷0
+__GCC_ATOMIC_TEST_AND_SET_TRUEVALÃ65536÷0
+__GCC_ATOMIC_WCHAR_T_LOCK_FREEÃ65536÷0
+__GCC_HAVE_DWARF2_CFI_ASMÃ65536÷0
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_1Ã65536÷0
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_2Ã65536÷0
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_4Ã65536÷0
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_8Ã65536÷0
+__GCC_IEC_559Ã65536÷0
+__GCC_IEC_559_COMPLEXÃ65536÷0
+__GID_T_TYPEÃ65536÷0
+__GLIBCXX_BITSIZE_INT_N_0Ã65536÷0
+__GLIBCXX_TYPE_INT_N_0Ã65536÷0
+__GLIBC_MINOR__Ã65536÷0
+__GLIBC_PREREQÃ131072Õ(maj,min)÷0
+__GLIBC__Ã65536÷0
+__GNUC_MINOR__Ã65536÷0
+__GNUC_PATCHLEVEL__Ã65536÷0
+__GNUC_PREREQÃ131072Õ(maj,min)÷0
+__GNUC_STDC_INLINE__Ã65536÷0
+__GNUC_VA_LISTÃ65536÷0
+__GNUC__Ã65536÷0
+__GNUG__Ã65536÷0
+__GNU_LIBRARY__Ã65536÷0
+__GXX_ABI_VERSIONÃ65536÷0
+__GXX_EXPERIMENTAL_CXX0X__Ã65536÷0
+__GXX_RTTIÃ65536÷0
+__GXX_WEAK__Ã65536÷0
+__HAVE_COLUMNÃ65536÷0
+__ID_T_TYPEÃ65536÷0
+__INO64_T_TYPEÃ65536÷0
+__INO_T_MATCHES_INO64_TÃ65536÷0
+__INO_T_TYPEÃ65536÷0
+__INT16_CÃ131072Õ(c)÷0
+__INT16_MAX__Ã65536÷0
+__INT16_TYPE__Ã65536÷0
+__INT32_CÃ131072Õ(c)÷0
+__INT32_MAX__Ã65536÷0
+__INT32_TYPE__Ã65536÷0
+__INT64_CÃ131072Õ(c)÷0
+__INT64_MAX__Ã65536÷0
+__INT64_TYPE__Ã65536÷0
+__INT8_CÃ131072Õ(c)÷0
+__INT8_MAX__Ã65536÷0
+__INT8_TYPE__Ã65536÷0
+__INTMAX_CÃ131072Õ(c)÷0
+__INTMAX_MAX__Ã65536÷0
+__INTMAX_TYPE__Ã65536÷0
+__INTPTR_MAX__Ã65536÷0
+__INTPTR_TYPE__Ã65536÷0
+__INT_FAST16_MAX__Ã65536÷0
+__INT_FAST16_TYPE__Ã65536÷0
+__INT_FAST32_MAX__Ã65536÷0
+__INT_FAST32_TYPE__Ã65536÷0
+__INT_FAST64_MAX__Ã65536÷0
+__INT_FAST64_TYPE__Ã65536÷0
+__INT_FAST8_MAX__Ã65536÷0
+__INT_FAST8_TYPE__Ã65536÷0
+__INT_LEAST16_MAX__Ã65536÷0
+__INT_LEAST16_TYPE__Ã65536÷0
+__INT_LEAST32_MAX__Ã65536÷0
+__INT_LEAST32_TYPE__Ã65536÷0
+__INT_LEAST64_MAX__Ã65536÷0
+__INT_LEAST64_TYPE__Ã65536÷0
+__INT_LEAST8_MAX__Ã65536÷0
+__INT_LEAST8_TYPE__Ã65536÷0
+__INT_MAX__Ã65536÷0
+__KERNEL_STRICT_NAMESÃ65536÷0
+__KEY_T_TYPEÃ65536÷0
+__LDBL_DENORM_MIN__Ã65536÷0
+__LDBL_DIG__Ã65536÷0
+__LDBL_EPSILON__Ã65536÷0
+__LDBL_HAS_DENORM__Ã65536÷0
+__LDBL_HAS_INFINITY__Ã65536÷0
+__LDBL_HAS_QUIET_NAN__Ã65536÷0
+__LDBL_MANT_DIG__Ã65536÷0
+__LDBL_MAX_10_EXP__Ã65536÷0
+__LDBL_MAX_EXP__Ã65536÷0
+__LDBL_MAX__Ã65536÷0
+__LDBL_MIN_10_EXP__Ã65536÷0
+__LDBL_MIN_EXP__Ã65536÷0
+__LDBL_MIN__Ã65536÷0
+__LDBL_REDIRÃ131072Õ(name,proto)÷0
+__LDBL_REDIR1Ã131072Õ(name,proto,alias)÷0
+__LDBL_REDIR1_NTHÃ131072Õ(name,proto,alias)÷0
+__LDBL_REDIR_DECLÃ131072Õ(name)÷0
+__LDBL_REDIR_NTHÃ131072Õ(name,proto)÷0
+__LEAFÃ65536÷0
+__LEAF_ATTRÃ65536÷0
+__LITTLE_ENDIANÃ65536÷0
+__LONG_LONG_MAX__Ã65536÷0
+__LONG_LONG_PAIRÃ131072Õ(HI,LO)÷0
+__LONG_MAX__Ã65536÷0
+__LP64__Ã65536÷0
+__MMX__Ã65536÷0
+__MODE_T_TYPEÃ65536÷0
+__NLINK_T_TYPEÃ65536÷0
+__NO_INLINE__Ã65536÷0
+__NTHÃ131072Õ(fct)÷0
+__OFF64_T_TYPEÃ65536÷0
+__OFF_T_MATCHES_OFF64_TÃ65536÷0
+__OFF_T_TYPEÃ65536÷0
+__ORDER_BIG_ENDIAN__Ã65536÷0
+__ORDER_LITTLE_ENDIAN__Ã65536÷0
+__ORDER_PDP_ENDIAN__Ã65536÷0
+__PÃ65536÷0
+__PÃ131072Õ(args)÷0
+__PDP_ENDIANÃ65536÷0
+__PIC__Ã65536÷0
+__PID_T_TYPEÃ65536÷0
+__PIE__Ã65536÷0
+__PMTÃ65536÷0
+__PMTÃ131072Õ(args)÷0
+__PRAGMA_REDEFINE_EXTNAMEÃ65536÷0
+__PTRDIFF_MAX__Ã65536÷0
+__PTRDIFF_TYPE__Ã65536÷0
+__REDIRECTÃ131072Õ(name,proto,alias)÷0
+__REDIRECT_LDBLÃ131072Õ(name,proto,alias)÷0
+__REDIRECT_NTHÃ131072Õ(name,proto,alias)÷0
+__REDIRECT_NTHNLÃ131072Õ(name,proto,alias)÷0
+__REDIRECT_NTH_LDBLÃ131072Õ(name,proto,alias)÷0
+__REGISTER_PREFIX__Ã65536÷0
+__RLIM64_T_TYPEÃ65536÷0
+__RLIM_T_TYPEÃ65536÷0
+__S16_TYPEÃ65536÷0
+__S32_TYPEÃ65536÷0
+__S64_TYPEÃ65536÷0
+__SCHAR_MAX__Ã65536÷0
+__SEG_FSÃ65536÷0
+__SEG_GSÃ65536÷0
+__SHRT_MAX__Ã65536÷0
+__SIG_ATOMIC_MAX__Ã65536÷0
+__SIG_ATOMIC_MIN__Ã65536÷0
+__SIG_ATOMIC_TYPE__Ã65536÷0
+__SIZEOF_DOUBLE__Ã65536÷0
+__SIZEOF_FLOAT128__Ã65536÷0
+__SIZEOF_FLOAT80__Ã65536÷0
+__SIZEOF_FLOAT__Ã65536÷0
+__SIZEOF_INT128__Ã65536÷0
+__SIZEOF_INT__Ã65536÷0
+__SIZEOF_LONG_DOUBLE__Ã65536÷0
+__SIZEOF_LONG_LONG__Ã65536÷0
+__SIZEOF_LONG__Ã65536÷0
+__SIZEOF_POINTER__Ã65536÷0
+__SIZEOF_PTRDIFF_T__Ã65536÷0
+__SIZEOF_SHORT__Ã65536÷0
+__SIZEOF_SIZE_T__Ã65536÷0
+__SIZEOF_WCHAR_T__Ã65536÷0
+__SIZEOF_WINT_T__Ã65536÷0
+__SIZE_MAX__Ã65536÷0
+__SIZE_TÃ65536÷0
+__SIZE_TYPE__Ã65536÷0
+__SIZE_T__Ã65536÷0
+__SLONG32_TYPEÃ65536÷0
+__SLONGWORD_TYPEÃ65536÷0
+__SQUAD_TYPEÃ65536÷0
+__SSE2_MATH__Ã65536÷0
+__SSE2__Ã65536÷0
+__SSE_MATH__Ã65536÷0
+__SSE__Ã65536÷0
+__SSIZE_T_TYPEÃ65536÷0
+__SSP_STRONG__Ã65536÷0
+__STDC_HOSTED__Ã65536÷0
+__STDC_IEC_559_COMPLEX__Ã65536÷0
+__STDC_IEC_559__Ã65536÷0
+__STDC_ISO_10646__Ã65536÷0
+__STDC_NO_THREADS__Ã65536÷0
+__STDC_UTF_16__Ã65536÷0
+__STDC_UTF_32__Ã65536÷0
+__STDC__Ã65536÷0
+__STD_TYPEÃ65536÷0
+__STRINGÃ131072Õ(x)÷0
+__SUSECONDS_T_TYPEÃ65536÷0
+__SWORD_TYPEÃ65536÷0
+__SYSCALL_SLONG_TYPEÃ65536÷0
+__SYSCALL_ULONG_TYPEÃ65536÷0
+__SYSCALL_WORDSIZEÃ65536÷0
+__THROWÃ65536÷0
+__THROWNLÃ65536÷0
+__TIMER_T_TYPEÃ65536÷0
+__TIME_T_TYPEÃ65536÷0
+__U16_TYPEÃ65536÷0
+__U32_TYPEÃ65536÷0
+__U64_TYPEÃ65536÷0
+__UID_T_TYPEÃ65536÷0
+__UINT16_CÃ131072Õ(c)÷0
+__UINT16_MAX__Ã65536÷0
+__UINT16_TYPE__Ã65536÷0
+__UINT32_CÃ131072Õ(c)÷0
+__UINT32_MAX__Ã65536÷0
+__UINT32_TYPE__Ã65536÷0
+__UINT64_CÃ131072Õ(c)÷0
+__UINT64_MAX__Ã65536÷0
+__UINT64_TYPE__Ã65536÷0
+__UINT8_CÃ131072Õ(c)÷0
+__UINT8_MAX__Ã65536÷0
+__UINT8_TYPE__Ã65536÷0
+__UINTMAX_CÃ131072Õ(c)÷0
+__UINTMAX_MAX__Ã65536÷0
+__UINTMAX_TYPE__Ã65536÷0
+__UINTPTR_MAX__Ã65536÷0
+__UINTPTR_TYPE__Ã65536÷0
+__UINT_FAST16_MAX__Ã65536÷0
+__UINT_FAST16_TYPE__Ã65536÷0
+__UINT_FAST32_MAX__Ã65536÷0
+__UINT_FAST32_TYPE__Ã65536÷0
+__UINT_FAST64_MAX__Ã65536÷0
+__UINT_FAST64_TYPE__Ã65536÷0
+__UINT_FAST8_MAX__Ã65536÷0
+__UINT_FAST8_TYPE__Ã65536÷0
+__UINT_LEAST16_MAX__Ã65536÷0
+__UINT_LEAST16_TYPE__Ã65536÷0
+__UINT_LEAST32_MAX__Ã65536÷0
+__UINT_LEAST32_TYPE__Ã65536÷0
+__UINT_LEAST64_MAX__Ã65536÷0
+__UINT_LEAST64_TYPE__Ã65536÷0
+__UINT_LEAST8_MAX__Ã65536÷0
+__UINT_LEAST8_TYPE__Ã65536÷0
+__ULONG32_TYPEÃ65536÷0
+__ULONGWORD_TYPEÃ65536÷0
+__UQUAD_TYPEÃ65536÷0
+__USECONDS_T_TYPEÃ65536÷0
+__USER_LABEL_PREFIX__Ã65536÷0
+__USE_ATFILEÃ65536÷0
+__USE_FILE_OFFSET64Ã65536÷0
+__USE_FORTIFY_LEVELÃ65536÷0
+__USE_GNUÃ65536÷0
+__USE_ISOC11Ã65536÷0
+__USE_ISOC95Ã65536÷0
+__USE_ISOC99Ã65536÷0
+__USE_ISOCXX11Ã65536÷0
+__USE_LARGEFILEÃ65536÷0
+__USE_LARGEFILE64Ã65536÷0
+__USE_MISCÃ65536÷0
+__USE_POSIXÃ65536÷0
+__USE_POSIX199309Ã65536÷0
+__USE_POSIX199506Ã65536÷0
+__USE_POSIX2Ã65536÷0
+__USE_REENTRANTÃ65536÷0
+__USE_UNIX98Ã65536÷0
+__USE_XOPENÃ65536÷0
+__USE_XOPEN2KÃ65536÷0
+__USE_XOPEN2K8Ã65536÷0
+__USE_XOPEN2K8XSIÃ65536÷0
+__USE_XOPEN2KXSIÃ65536÷0
+__USE_XOPEN_EXTENDEDÃ65536÷0
+__USING_NAMESPACE_C99Ã131072Õ(name)÷0
+__USING_NAMESPACE_STDÃ131072Õ(name)÷0
+__UWORD_TYPEÃ65536÷0
+__VERSION__Ã65536÷0
+__WCHAR_MAX__Ã65536÷0
+__WCHAR_MIN__Ã65536÷0
+__WCHAR_TYPE__Ã65536÷0
+__WINT_MAX__Ã65536÷0
+__WINT_MIN__Ã65536÷0
+__WINT_TYPE__Ã65536÷0
+__WORDSIZEÃ65536÷0
+__WORDSIZE_TIME64_COMPAT32Ã65536÷0
+____FILE_definedÃ65536÷0
+____mbstate_t_definedÃ65536÷0
+___int_size_t_hÃ65536÷0
+__always_inlineÃ65536÷0
+__amd64Ã65536÷0
+__amd64__Ã65536÷0
+__asprintfÃ1024Õ(char **__restrict __ptr, const char *__restrict __fmt, ...)÷0œint
+__attribute_alloc_size__Ã131072Õ(params)÷0
+__attribute_artificial__Ã65536÷0
+__attribute_const__Ã65536÷0
+__attribute_deprecated__Ã65536÷0
+__attribute_format_arg__Ã131072Õ(x)÷0
+__attribute_format_strfmon__Ã131072Õ(a,b)÷0
+__attribute_malloc__Ã65536÷0
+__attribute_noinline__Ã65536÷0
+__attribute_pure__Ã65536÷0
+__attribute_used__Ã65536÷0
+__attribute_warn_unused_result__Ã65536÷0
+__blkcnt64_tÃ4096÷0œlong int
+__blkcnt_tÃ4096÷0œlong int
+__blksize_tÃ4096÷0œlong int
+__bosÃ131072Õ(ptr)÷0
+__bos0Ã131072Õ(ptr)÷0
+__bswap_16Ã131072Õ(x)÷0
+__bswap_32Ã16Õ(unsigned int __bsx)÷0œ__inline unsigned int
+__bswap_64Ã16Õ(__uint64_t __bsx)÷0œ__inline
+__bswap_constant_16Ã131072Õ(x)÷0
+__bswap_constant_32Ã131072Õ(x)÷0
+__bswap_constant_64Ã131072Õ(x)÷0
+__bzeroÃ1024Õ(void *__s, size_t __n)÷0œvoid
+__caddr_tÃ4096÷0œchar *
+__clock_tÃ4096÷0œlong int
+__clockid_tÃ4096÷0œint
+__code_model_small__Ã65536÷0
+__codecvt_errorÃ4Œ__codecvt_result÷0
+__codecvt_noconvÃ4Œ__codecvt_result÷0
+__codecvt_okÃ4Œ__codecvt_result÷0
+__codecvt_partialÃ4Œ__codecvt_result÷0
+__codecvt_resultÃ2÷0
+__countÃ64Œanon_struct_2÷0œint
+__cplusplusÃ65536÷0
+__cpp_aggregate_nsdmiÃ65536÷0
+__cpp_alias_templatesÃ65536÷0
+__cpp_attributesÃ65536÷0
+__cpp_binary_literalsÃ65536÷0
+__cpp_constexprÃ65536÷0
+__cpp_decltypeÃ65536÷0
+__cpp_decltype_autoÃ65536÷0
+__cpp_delegating_constructorsÃ65536÷0
+__cpp_digit_separatorsÃ65536÷0
+__cpp_exceptionsÃ65536÷0
+__cpp_generic_lambdasÃ65536÷0
+__cpp_hex_floatÃ65536÷0
+__cpp_inheriting_constructorsÃ65536÷0
+__cpp_init_capturesÃ65536÷0
+__cpp_initializer_listsÃ65536÷0
+__cpp_lambdasÃ65536÷0
+__cpp_nsdmiÃ65536÷0
+__cpp_range_based_forÃ65536÷0
+__cpp_raw_stringsÃ65536÷0
+__cpp_ref_qualifiersÃ65536÷0
+__cpp_return_type_deductionÃ65536÷0
+__cpp_rttiÃ65536÷0
+__cpp_runtime_arraysÃ65536÷0
+__cpp_rvalue_referenceÃ65536÷0
+__cpp_rvalue_referencesÃ65536÷0
+__cpp_sized_deallocationÃ65536÷0
+__cpp_static_assertÃ65536÷0
+__cpp_unicode_charactersÃ65536÷0
+__cpp_unicode_literalsÃ65536÷0
+__cpp_user_defined_literalsÃ65536÷0
+__cpp_variable_templatesÃ65536÷0
+__cpp_variadic_templatesÃ65536÷0
+__ctype_bÃ64Œ__locale_struct÷0œconst unsigned short int *
+__ctype_b_locÃ1024Õ(void)÷0œconst unsigned short int * *
+__ctype_tolowerÃ64Œ__locale_struct÷0œconst int *
+__ctype_tolower_locÃ1024Õ(void)÷0œconst __int32_t * *
+__ctype_toupperÃ64Œ__locale_struct÷0œconst int *
+__ctype_toupper_locÃ1024Õ(void)÷0œconst __int32_t * *
+__daddr_tÃ4096÷0œint
+__dev_tÃ4096÷0œunsigned long int
+__errordeclÃ131072Õ(name,msg)÷0
+__exctypeÃ131072Õ(name)÷0
+__exctype_lÃ131072Õ(name)÷0
+__extern_always_inlineÃ65536÷0
+__extern_inlineÃ65536÷0
+__flexarrÃ65536÷0
+__fortify_functionÃ65536÷0
+__fsblkcnt64_tÃ4096÷0œunsigned long int
+__fsblkcnt_tÃ4096÷0œunsigned long int
+__fsfilcnt64_tÃ4096÷0œunsigned long int
+__fsfilcnt_tÃ4096÷0œunsigned long int
+__fsid_tÃ4096÷0œanon_struct_1
+__fsword_tÃ4096÷0œlong int
+__getdelimÃ1024Õ(char **__restrict __lineptr, size_t *__restrict __n, int __delimiter, FILE *__restrict __stream)÷0œ__ssize_t
+__gid_tÃ4096÷0œunsigned int
+__glibc_likelyÃ131072Õ(cond)÷0
+__glibc_unlikelyÃ131072Õ(cond)÷0
+__gnu_linux__Ã65536÷0
+__gnuc_va_listÃ4096÷0œ__builtin_va_list
+__has_includeÃ131072Õ(STR)÷0
+__has_include_nextÃ131072Õ(STR)÷0
+__id_tÃ4096÷0œunsigned int
+__ino64_tÃ4096÷0œunsigned long int
+__ino_tÃ4096÷0œunsigned long int
+__int16_tÃ4096÷0œsigned short int
+__int32_tÃ4096÷0œsigned int
+__int64_tÃ4096÷0œsigned long int
+__int8_tÃ4096÷0œsigned char
+__intptr_tÃ4096÷0œlong int
+__io_close_fnÃ4096÷0œtypedef int
+__io_read_fnÃ4096÷0œtypedef __ssize_t
+__io_seek_fnÃ4096÷0œtypedef int
+__io_write_fnÃ4096÷0œtypedef __ssize_t
+__isalnum_lÃ131072Õ(c,l)÷0
+__isalpha_lÃ131072Õ(c,l)÷0
+__isasciiÃ131072Õ(c)÷0
+__isascii_lÃ131072Õ(c,l)÷0
+__isblank_lÃ131072Õ(c,l)÷0
+__iscntrl_lÃ131072Õ(c,l)÷0
+__isctype_lÃ131072Õ(c,type,locale)÷0
+__isdigit_lÃ131072Õ(c,l)÷0
+__isgraph_lÃ131072Õ(c,l)÷0
+__islower_lÃ131072Õ(c,l)÷0
+__isprint_lÃ131072Õ(c,l)÷0
+__ispunct_lÃ131072Õ(c,l)÷0
+__isspace_lÃ131072Õ(c,l)÷0
+__isupper_lÃ131072Õ(c,l)÷0
+__isxdigit_lÃ131072Õ(c,l)÷0
+__jmp_bufÃ4096÷0œlong int
+__jmp_buf_tagÃ2048÷0
+__jmpbufÃ64Œ__jmp_buf_tag÷0œ__jmp_buf
+__k8Ã65536÷0
+__k8__Ã65536÷0
+__key_tÃ4096÷0œint
+__linuxÃ65536÷0
+__linux__Ã65536÷0
+__locale_structÃ2048÷0
+__locale_tÃ4096÷0œ__locale_struct
+__localesÃ64Œ__locale_struct÷0œ__locale_data
+__loff_tÃ4096÷0œ__off64_t
+__long_double_tÃ65536÷0
+__mask_was_savedÃ64Œ__jmp_buf_tag÷0œint
+__mbstate_tÃ4096÷0œanon_struct_2
+__mempcpyÃ1024Õ(void *__restrict __dest, const void *__restrict __src, size_t __n)÷0œvoid *
+__mode_tÃ4096÷0œunsigned int
+__namesÃ64Œ__locale_struct÷0œconst char *
+__need_FILEÃ65536÷0
+__need_NULLÃ65536÷0
+__need___FILEÃ65536÷0
+__need___va_listÃ65536÷0
+__need_mbstate_tÃ65536÷0
+__need_size_tÃ65536÷0
+__need_wint_tÃ65536÷0
+__nlink_tÃ4096÷0œunsigned long int
+__nonnullÃ131072Õ(params)÷0
+__off64_tÃ4096÷0œlong int
+__off64_t_definedÃ65536÷0
+__off_tÃ4096÷0œlong int
+__off_t_definedÃ65536÷0
+__overflowÃ1024Õ(_IO_FILE *, int)÷0œint
+__pad1Ã64Œ_IO_FILE÷0œvoid *
+__pad2Ã64Œ_IO_FILE÷0œvoid *
+__pad3Ã64Œ_IO_FILE÷0œvoid *
+__pad4Ã64Œ_IO_FILE÷0œvoid *
+__pad5Ã64Œ_IO_FILE÷0œsize_t
+__pic__Ã65536÷0
+__pid_tÃ4096÷0œint
+__pie__Ã65536÷0
+__posÃ64Œanon_struct_4÷0œ__off_t
+__posÃ64Œanon_struct_5÷0œ__off64_t
+__printf__Ã131072Õ(s,f)÷0
+__ptr_tÃ65536÷0
+__qaddr_tÃ4096÷0œ__quad_t *
+__quad_tÃ4096÷0œlong int
+__restrict_arrÃ65536÷0
+__rlim64_tÃ4096÷0œunsigned long int
+__rlim_tÃ4096÷0œunsigned long int
+__saved_maskÃ64Œ__jmp_buf_tag÷0œ__sigset_t
+__sig_atomic_tÃ4096÷0œint
+__sigset_tÃ4096÷0œanon_struct_0
+__sigsetjmpÃ1024Õ(struct __jmp_buf_tag __env[1], int __savemask)÷0œint
+__size_tÃ65536÷0
+__size_t__Ã65536÷0
+__socklen_tÃ4096÷0œunsigned int
+__ssize_tÃ4096÷0œlong int
+__ssize_t_definedÃ65536÷0
+__stateÃ64Œanon_struct_4÷0œ__mbstate_t
+__stateÃ64Œanon_struct_5÷0œ__mbstate_t
+__stpcpyÃ1024Õ(char *__restrict __dest, const char *__restrict __src)÷0œchar *
+__stpncpyÃ1024Õ(char *__restrict __dest, const char *__restrict __src, size_t __n)÷0œchar *
+__strtok_rÃ1024Õ(char *__restrict __s, const char *__restrict __delim, char **__restrict __save_ptr)÷0œchar *
+__stub___compat_bdflushÃ65536÷0
+__stub_chflagsÃ65536÷0
+__stub_fattachÃ65536÷0
+__stub_fchflagsÃ65536÷0
+__stub_fdetachÃ65536÷0
+__stub_getmsgÃ65536÷0
+__stub_gttyÃ65536÷0
+__stub_lchmodÃ65536÷0
+__stub_putmsgÃ65536÷0
+__stub_revokeÃ65536÷0
+__stub_setloginÃ65536÷0
+__stub_sigreturnÃ65536÷0
+__stub_sstkÃ65536÷0
+__stub_sttyÃ65536÷0
+__suseconds_tÃ4096÷0œlong int
+__syscall_slong_tÃ4096÷0œlong int
+__syscall_ulong_tÃ4096÷0œunsigned long int
+__time_tÃ4096÷0œlong int
+__timer_tÃ4096÷0œvoid *
+__toasciiÃ131072Õ(c)÷0
+__toascii_lÃ131072Õ(c,l)÷0
+__tobodyÃ131072Õ(c,f,a,args)÷0
+__tolower_lÃ1024Õ(int __c, __locale_t __l)÷0œint
+__toupper_lÃ1024Õ(int __c, __locale_t __l)÷0œint
+__u_charÃ4096÷0œunsigned char
+__u_intÃ4096÷0œunsigned int
+__u_longÃ4096÷0œunsigned long int
+__u_quad_tÃ4096÷0œunsigned long int
+__u_shortÃ4096÷0œunsigned short int
+__uflowÃ1024Õ(_IO_FILE *)÷0œint
+__uid_tÃ4096÷0œunsigned int
+__uint16_tÃ4096÷0œunsigned short int
+__uint32_tÃ4096÷0œunsigned int
+__uint64_tÃ4096÷0œunsigned long int
+__uint8_tÃ4096÷0œunsigned char
+__underflowÃ1024Õ(_IO_FILE *)÷0œint
+__unixÃ65536÷0
+__unix__Ã65536÷0
+__unused__Ã65536÷0
+__useconds_tÃ4096÷0œunsigned int
+__va_arg_packÃ131072Õ()÷0
+__va_arg_pack_lenÃ131072Õ()÷0
+__va_copyÃ131072Õ(d,s)÷0
+__va_list__Ã65536÷0
+__valÃ64Œanon_struct_0÷0œunsigned long int
+__valÃ64Œanon_struct_1÷0œint
+__valueÃ64Œanon_struct_2÷0œanon_union_3
+__warnattrÃ131072Õ(msg)÷0
+__warndeclÃ131072Õ(name,msg)÷0
+__wchÃ64Œanon_struct_2::anon_union_3÷0œunsigned int
+__wchbÃ64Œanon_struct_2::anon_union_3÷0œchar
+__wurÃ65536÷0
+__x86_64Ã65536÷0
+__x86_64__Ã65536÷0
+_chainÃ64Œ_IO_FILE÷0œ_IO_FILE
+_cur_columnÃ64Œ_IO_FILE÷0œunsigned short
+_filenoÃ64Œ_IO_FILE÷0œint
+_flagsÃ64Œ_IO_FILE÷0œint
+_flags2Ã64Œ_IO_FILE÷0œint
+_lockÃ64Œ_IO_FILE÷0œ_IO_lock_t *
+_longjmpÃ1024Õ(struct __jmp_buf_tag __env[1], int __val)÷0œvoid
+_markersÃ64Œ_IO_FILE÷0œ_IO_marker
+_modeÃ64Œ_IO_FILE÷0œint
+_nextÃ64Œ_IO_marker÷0œ_IO_marker
+_offsetÃ64Œ_IO_FILE÷0œ__off64_t
+_old_offsetÃ64Œ_IO_FILE÷0œ__off_t
+_posÃ64Œ_IO_marker÷0œint
+_sbufÃ64Œ_IO_marker÷0œ_IO_FILE
+_setjmpÃ1024Õ(struct __jmp_buf_tag __env[1])÷0œint
+_shortbufÃ64Œ_IO_FILE÷0œchar
+_sys_errlistÃ32768÷0œconst char *const
+_sys_nerrÃ32768÷0œint
+_tolowerÃ1024Õ(int)÷0œint
+_tolowerÃ131072Õ(c)÷0
+_toupperÃ1024Õ(int)÷0œint
+_toupperÃ131072Õ(c)÷0
+_unused2Ã64Œ_IO_FILE÷0œchar
+_vtable_offsetÃ64Œ_IO_FILE÷0œsigned char
+absoluteDirnameÃ1024Õ(char *file)÷0œchar *
+absoluteFilenameÃ1024Õ(const char *file)÷0œchar *
+accessÃ64ŒsExtFields÷0œboolean
+accessÃ64ŒsMemberInfo÷0œaccessType
+accessÃ64ŒsTagEntryInfo::anon_struct_7÷0œconst char *
+accessDefaultÃ64ŒsMemberInfo÷0œaccessType
+accessFieldÃ16Õ(const statementInfo *const st)÷0œconst char *
+accessStringÃ16Õ(const accessType access)÷0œconst char *
+accessTypeÃ4096÷0œeVisibilityType
+activeTokenÃ131072Õ(st)÷0
+addCallbackRegexÃ1024Õ(const langType language, const char *const regex, const char *const flags, const regexCallback callback)÷0œvoid
+addContextÃ16Õ(statementInfo *const st, const tokenInfo* const token)÷0œvoid
+addContextSeparatorÃ16Õ(vString *const scope)÷0œvoid
+addKeywordÃ1024Õ(const char *const string, langType language, int value)÷0œvoid
+addLanguageExtensionMapÃ1024Õ(const langType language, const char* extension)÷0œvoid
+addLanguagePatternMapÃ1024Õ(const langType language, const char* ptrn)÷0œvoid
+addLanguageRegexÃ1024Õ(const langType language, const char* const regex)÷0œvoid
+addOtherFieldsÃ16Õ(tagEntryInfo* const tag, const tagType type, const statementInfo *const st, vString *const scope, vString *const typeRef)÷0œvoid
+addParentClassÃ16Õ(statementInfo *const st, tokenInfo *const token)÷0œvoid
+addTagRegexÃ1024Õ(const langType language, const char* const regex, const char* const name, const char* const kinds, const char* const flags)÷0œvoid
+addedÃ64ŒeTagFile::sNumTags÷0œunsigned long
+advanceTokenÃ16Õ(statementInfo* const st)÷0œvoid
+analyzeIdentifierÃ16Õ(tokenInfo *const token)÷0œvoid
+analyzeKeywordÃ16Õ(const char *const name)÷0œkeywordId
+analyzeParensÃ16Õ(statementInfo *const st)÷0œvoid
+analyzePostParensÃ16Õ(statementInfo *const st, parenInfo *const info)÷0œvoid
+analyzeTokenÃ1024Õ(vString *const name, langType language)÷0œint
+anon_enum_10Ã2÷0
+anon_enum_12Ã2÷0
+anon_enum_13Ã2÷0
+anon_enum_15Ã2÷0
+anon_enum_16Ã2÷0
+anon_enum_17Ã2÷0
+anon_enum_18Ã2÷0
+anon_enum_19Ã2÷0
+anon_struct_0Ã2048÷0
+anon_struct_1Ã2048÷0
+anon_struct_14Ã2048÷0
+anon_struct_2Ã2048÷0
+anon_struct_4Ã2048÷0
+anon_struct_5Ã2048÷0
+anon_struct_6Ã2048÷0
+anon_struct_7Ã2048ŒsTagEntryInfo÷0
+anon_struct_8Ã2048÷0
+anon_struct_9Ã2048÷0
+anon_union_11Ã8192ŒsArgs÷0
+anon_union_3Ã8192Œanon_struct_2÷0
+appendÃ64ŒsOptionValues÷0œboolean
+argDeleteÃ1024Õ(Arguments* const current)÷0œvoid
+argForthÃ1024Õ(Arguments* const current)÷0œvoid
+argItemÃ1024Õ(const Arguments* const current)÷0œchar *
+argNewFromArgvÃ1024Õ(char* const* const argv)÷0œArguments *
+argNewFromFileÃ1024Õ(FILE* const fp)÷0œArguments *
+argNewFromLineFileÃ1024Õ(FILE* const fp)÷0œArguments *
+argNewFromStringÃ1024Õ(const char* const string)÷0œArguments *
+argOffÃ1024Õ(const Arguments* const current)÷0œboolean
+argSetLineModeÃ1024Õ(Arguments* const current)÷0œvoid
+argSetWordModeÃ1024Õ(Arguments* const current)÷0œvoid
+argTypeÃ4096÷0œanon_enum_10
+argsÃ64ŒsCookedArgs÷0œArguments *
+argvÃ64ŒsArgs::anon_union_11::sArgvArgs÷0œchar *const *
+argvArgsÃ64ŒsArgs::anon_union_11÷0œsArgvArgs
+asprintfÃ1024Õ(char **__restrict __ptr, const char *__restrict __fmt, ...)÷0œint
+assignmentÃ64ŒsStatementInfo÷0œboolean
+backwardÃ64ŒsOptionValues÷0œboolean
+baseFilenameÃ1024Õ(const char *const filePath)÷0œconst char *
+bcmpÃ1024Õ(const void *__s1, const void *__s2, size_t __n)÷0œint
+bcopyÃ1024Õ(const void *__src, void *__dest, size_t __n)÷0œvoid
+be16tohÃ131072Õ(x)÷0
+be32tohÃ131072Õ(x)÷0
+be64tohÃ131072Õ(x)÷0
+beginEtagsFileÃ1024Õ(void)÷0œvoid
+blockNameÃ64ŒsStatementInfo÷0œtokenInfo *
+booleanÃ4096÷0œbool
+bufferÃ64ŒsVString÷0œchar *
+buildKeywordHashÃ16Õ(const langType language, unsigned int idx)÷0œvoid
+byteCountÃ64ŒeTagFile::sEtags÷0œsize_t
+bzeroÃ1024Õ(void *__s, size_t __n)÷0œvoid
+cArgDeleteÃ1024Õ(cookedArgs* const current)÷0œvoid
+cArgForthÃ1024Õ(cookedArgs* const current)÷0œvoid
+cArgIsOptionÃ1024Õ(cookedArgs* const current)÷0œboolean
+cArgItemÃ1024Õ(cookedArgs* const current)÷0œconst char *
+cArgNewFromArgvÃ1024Õ(char* const* const argv)÷0œcookedArgs *
+cArgNewFromFileÃ1024Õ(FILE* const fp)÷0œcookedArgs *
+cArgNewFromLineFileÃ1024Õ(FILE* const fp)÷0œcookedArgs *
+cArgNewFromStringÃ1024Õ(const char* string)÷0œcookedArgs *
+cArgOffÃ1024Õ(cookedArgs* const current)÷0œboolean
+cKindÃ4096÷0œanon_enum_16
+cTagKindÃ16Õ(const tagType type)÷0œcKind
+checkOptionsÃ1024Õ(void)÷0œvoid
+checkRegexÃ1024Õ(void)÷0œvoid
+checkStatementEndÃ16Õ(statementInfo *const st)÷0œvoid
+clearLanguageMapÃ1024Õ(const langType language)÷0œvoid
+clearerrÃ1024Õ(FILE *__stream)÷0œvoid
+clearerr_unlockedÃ1024Õ(FILE *__stream)÷0œvoid
+closeÃ64Œanon_struct_6÷0œ__io_close_fn *
+closeTagFileÃ1024Õ(const boolean resize)÷0œvoid
+combinePathAndFileÃ1024Õ(const char *const path, const char *const file)÷0œvString *
+contextÃ64ŒsStatementInfo÷0œtokenInfo *
+cookedArgsÃ4096÷0œsCookedArgs
+cookie_close_function_tÃ4096÷0œ__io_close_fn
+cookie_io_functions_tÃ4096÷0œ_IO_cookie_io_functions_t
+cookie_read_function_tÃ4096÷0œ__io_read_fn
+cookie_seek_function_tÃ4096÷0œ__io_seek_fn
+cookie_write_function_tÃ4096÷0œ__io_write_fn
+copyBytesÃ1024Õ(FILE* const fromFp, FILE* const toFp, const long size)÷0œvoid
+copyFileÃ1024Õ(const char *const from, const char *const to, const long size)÷0œvoid
+copyTokenÃ16Õ(tokenInfo *const dest, const tokenInfo *const src)÷0œvoid
+countÃ64ŒsStringList÷0œunsigned int
+countÃ64ŒsTagFields÷0œunsigned int
+cppBeginStatementÃ1024Õ(void)÷0œvoid
+cppEndStatementÃ1024Õ(void)÷0œvoid
+cppGetcÃ1024Õ(void)÷0œint
+cppInitÃ1024Õ(const boolean state, const boolean hasAtLiteralStrings)÷0œvoid
+cppTerminateÃ1024Õ(void)÷0œvoid
+cppUngetcÃ1024Õ(const int c)÷0œvoid
+createRegexTagÃ4096÷0œtypedef void
+createTagsÃ16Õ(const unsigned int nestLevel, statementInfo *const parent)÷0œvoid
+createTagsÃ1024Õ(const unsigned int nestLevel, statementInfo *const parent)÷0œvoid
+csharpKindÃ4096÷0œanon_enum_17
+csharpTagKindÃ16Õ(const tagType type)÷0œcsharpKind
+ctermidÃ1024Õ(char *__s)÷0œchar *
+currentExtensionsÃ64Œanon_struct_8÷0œstringList *
+currentLineÃ64ŒsInputFile÷0œconst unsigned char *
+currentPatternsÃ64Œanon_struct_8÷0œstringList *
+cuseridÃ1024Õ(char *__s)÷0œchar *
+debugCppIgnoreÃ1024Õ(const boolean ignore)÷0œvoid
+debugCppNestÃ1024Õ(const boolean begin, const unsigned int level)÷0œvoid
+debugEntryÃ1024Õ(const tagEntryInfo *const tag)÷0œvoid
+debugParseNestÃ1024Õ(const boolean increase, const unsigned int level)÷0œvoid
+debugPrintfÃ1024Õ(const enum eDebugLevels level, const char *const format, ...)÷0œvoid
+debugPutcÃ1024Õ(const int level, const int c)÷0œvoid
+declToTagTypeÃ16Õ(const declType declaration)÷0œtagType
+declTypeÃ4096÷0œeDeclaration
+declarationÃ64ŒsStatementInfo÷0œdeclType
+deleteAllStatementsÃ16Õ(void)÷0œvoid
+deleteStatementÃ16Õ(void)÷0œvoid
+deleteTokenÃ16Õ(tokenInfo *const token)÷0œvoid
+descriptionÃ64ŒsKindOption÷0œconst char *
+directoryÃ64ŒeTagFile÷0œchar *
+disableRegexKindsÃ1024Õ(const langType language)÷0œvoid
+discardTypeListÃ16Õ(tokenInfo *const token)÷0œvoid
+doesFileExistÃ1024Õ(const char *const fileName)÷0œboolean
+dprintfÃ1024Õ(int __fd, const char *__restrict __fmt, ...)÷0œint
+eCallocÃ1024Õ(const size_t count, const size_t size)÷0œvoid *
+eCharactersÃ2÷0
+eDebugLevelsÃ2÷0
+eDeclarationÃ2÷0
+eErrorTypesÃ2÷0
+eExceptionÃ2÷0
+eFreeÃ1024Õ(void *const ptr)÷0œvoid
+eImplementationÃ2÷0
+eKeywordIdÃ2÷0
+eLocateÃ2÷0
+eMallocÃ1024Õ(const size_t size)÷0œvoid *
+eReallocÃ1024Õ(void *const ptr, const size_t size)÷0œvoid *
+eStatÃ1024Õ(const char *const fileName)÷0œfileStatus *
+eStatFreeÃ1024Õ(fileStatus *status)÷0œvoid
+eStrdupÃ1024Õ(const char* str)÷0œchar *
+eTagFileÃ2048÷0
+eTagScopeÃ2÷0
+eTagTypeÃ2÷0
+eTokenTypeÃ2÷0
+eVisibilityTypeÃ2÷0
+enableLanguageÃ1024Õ(const langType language, const boolean state)÷0œvoid
+enableLanguagesÃ1024Õ(const boolean state)÷0œvoid
+enableRegexKindÃ1024Õ(const langType language, const int kind, const boolean mode)÷0œboolean
+enabledÃ64Œanon_struct_8÷0œboolean
+enabledÃ64ŒsKindOption÷0œboolean
+endEtagsFileÃ1024Õ(const char *const name)÷0œvoid
+eofÃ64ŒsInputFile÷0œboolean
+errorÃ1024Õ(const errorSelection selection, const char *const format, ...)÷0œvoid
+errorSelectionÃ4096÷0œint
+erroutÃ65536÷0
+etagsÃ64ŒeTagFile÷0œsEtags
+etagsÃ64ŒsOptionValues÷0œboolean
+etagsIncludeÃ64ŒsOptionValues÷0œstringList *
+exCmdÃ4096÷0œeLocate
+exception_tÃ4096÷0œeException
+existsÃ64Œanon_struct_14÷0œboolean
+extensionFieldsÃ64ŒsOptionValues÷0œsExtFields
+extensionFieldsÃ64ŒsTagEntryInfo÷0œanon_struct_7
+extensionsÃ64Œanon_struct_8÷0œconst char *const *
+fcloseÃ1024Õ(FILE *__stream)÷0œint
+fcloseallÃ1024Õ(void)÷0œint
+fdopenÃ1024Õ(int __fd, const char *__modes)÷0œFILE *
+feofÃ1024Õ(FILE *__stream)÷0œint
+feof_unlockedÃ1024Õ(FILE *__stream)÷0œint
+ferrorÃ1024Õ(FILE *__stream)÷0œint
+ferror_unlockedÃ1024Õ(FILE *__stream)÷0œint
+fflushÃ1024Õ(FILE *__stream)÷0œint
+fflush_unlockedÃ1024Õ(FILE *__stream)÷0œint
+ffsÃ1024Õ(int __i)÷0œint
+ffslÃ1024Õ(long int __l)÷0œint
+ffsllÃ1024Õ(long long int __ll)÷0œ__extension__int
+fgetcÃ1024Õ(FILE *__stream)÷0œint
+fgetc_unlockedÃ1024Õ(FILE *__stream)÷0œint
+fgetposÃ1024Õ(FILE *__restrict __stream, # 800 long # 800 3 4 *__restrict __pos)÷0œint
+fgetpos64Ã1024Õ(FILE *__restrict __stream, fpos64_t *__restrict __pos)÷0œint
+fgetsÃ1024Õ(char *__restrict __s, int __n, FILE *__restrict __stream)÷0œchar *
+fgets_unlockedÃ1024Õ(char *__restrict __s, int __n, FILE *__restrict __stream)÷0œchar *
+fileÃ64ŒeTagFile::sMax÷0œsize_t
+fileArgsÃ64ŒsArgs::anon_union_11÷0œsFileArgs
+fileCloseÃ1024Õ(void)÷0œvoid
+fileEOFÃ1024Õ(void)÷0œboolean
+fileExtensionÃ1024Õ(const char *const fileName)÷0œconst char *
+fileGetcÃ1024Õ(void)÷0œint
+fileListÃ64ŒsOptionValues÷0œchar *
+fileNamesÃ64ŒsInclude÷0œboolean
+fileOpenÃ1024Õ(const char *const fileName, const langType language)÷0œboolean
+filePositionÃ64ŒsInputFile÷0œlong
+filePositionÃ64ŒsTagEntryInfo÷0œlong
+filePositionÃ64ŒsTokenInfo÷0œlong
+fileReadLineÃ1024Õ(void)÷0œconst unsigned char *
+fileScopeÃ64ŒsExtFields÷0œboolean
+fileScopeÃ64ŒsInclude÷0œboolean
+fileScopeÃ64ŒsTagEntryInfo::anon_struct_7÷0œconst char *
+fileSkipToCharacterÃ1024Õ(int c)÷0œint
+fileStatusÃ4096÷0œanon_struct_14
+fileUngetcÃ1024Õ(int c)÷0œvoid
+filenoÃ1024Õ(FILE *__stream)÷0œint
+fileno_unlockedÃ1024Õ(FILE *__stream)÷0œint
+filesRequiredÃ1024Õ(void)÷0œboolean
+filterÃ64ŒsOptionValues÷0œboolean
+filterTerminatorÃ64ŒsOptionValues÷0œchar *
+findCTagsÃ16Õ(const unsigned int passCount)÷0œboolean
+findScopeHierarchyÃ16Õ(vString *const string, const statementInfo *const st)÷0œvoid
+flockfileÃ1024Õ(FILE *__stream)÷0œvoid
+fmemopenÃ1024Õ(void *__s, size_t __len, const char *__modes)÷0œFILE *
+followLinksÃ64ŒsOptionValues÷0œboolean
+fopenÃ1024Õ(const char *__restrict __filename, const char *__restrict __modes)÷0œFILE *
+fopen64Ã1024Õ(const char *__restrict __filename, const char *__restrict __modes)÷0œFILE *
+fopencookieÃ1024Õ(void *__restrict __magic_cookie, const char *__restrict __modes, _IO_cookie_io_functions_t __io_funcs)÷0œFILE *
+fpÃ64ŒeTagFile÷0œFILE *
+fpÃ64ŒeTagFile::sEtags÷0œFILE *
+fpÃ64ŒsArgs::anon_union_11::sFileArgs÷0œFILE *
+fpÃ64ŒsInputFile÷0œFILE *
+fpos64_tÃ4096÷0œ_G_fpos64_t
+fpos_tÃ65536÷0
+fprintfÃ1024Õ(FILE *__restrict __stream, const char *__restrict __format, ...)÷0œint
+fputcÃ1024Õ(int __c, FILE *__stream)÷0œint
+fputc_unlockedÃ1024Õ(int __c, FILE *__stream)÷0œint
+fputsÃ1024Õ(const char *__restrict __s, FILE *__restrict __stream)÷0œint
+fputs_unlockedÃ1024Õ(const char *__restrict __s, FILE *__restrict __stream)÷0œint
+freadÃ1024Õ(void *__restrict __ptr, size_t __size, size_t __n, FILE *__restrict __stream)÷0œsize_t
+fread_unlockedÃ1024Õ(void *__restrict __ptr, size_t __size, size_t __n, FILE *__restrict __stream)÷0œsize_t
+freeKeywordTableÃ1024Õ(void)÷0œvoid
+freeListÃ1024Õ(stringList** const pString)÷0œvoid
+freeOptionResourcesÃ1024Õ(void)÷0œvoid
+freeParserResourcesÃ1024Õ(void)÷0œvoid
+freeRegexResourcesÃ1024Õ(void)÷0œvoid
+freeRoutineResourcesÃ1024Õ(void)÷0œvoid
+freeSourceFileResourcesÃ1024Õ(void)÷0œvoid
+freeTagFileResourcesÃ1024Õ(void)÷0œvoid
+freopenÃ1024Õ(const char *__restrict __filename, const char *__restrict __modes, FILE *__restrict __stream)÷0œFILE *
+freopen64Ã1024Õ(const char *__restrict __filename, const char *__restrict __modes, FILE *__restrict __stream)÷0œFILE *
+fscanfÃ1024Õ(FILE *__restrict __stream, const char *__restrict __format, ...)÷0œint
+fseekÃ1024Õ(FILE *__stream, long int __off, int __whence)÷0œint
+fseekoÃ1024Õ(FILE *__stream, __off_t __off, int __whence)÷0œint
+fseeko64Ã1024Õ(FILE *__stream, __off64_t __off, int __whence)÷0œint
+fsetposÃ1024Õ(FILE *__stream, const # 805 long # 805 3 4 *__pos)÷0œint
+fsetpos64Ã1024Õ(FILE *__stream, const fpos64_t *__pos)÷0œint
+ftellÃ1024Õ(FILE *__stream)÷0œlong int
+ftelloÃ1024Õ(FILE *__stream)÷0œ__off_t
+ftello64Ã1024Õ(FILE *__stream)÷0œ__off64_t
+ftrylockfileÃ1024Õ(FILE *__stream)÷0œint
+funlockfileÃ1024Õ(FILE *__stream)÷0œvoid
+fwriteÃ1024Õ(const void *__restrict __ptr, size_t __size, size_t __n, FILE *__restrict __s)÷0œsize_t
+fwrite_unlockedÃ1024Õ(const void *__restrict __ptr, size_t __size, size_t __n, FILE *__restrict __stream)÷0œsize_t
+getDirectiveNestLevelÃ1024Õ(void)÷0œunsigned int
+getExecutableNameÃ1024Õ(void)÷0œconst char *
+getExecutablePathÃ1024Õ(void)÷0œconst char *
+getFileLanguageÃ1024Õ(const char *const fileName)÷0œlangType
+getInputFileNameÃ131072Õ()÷0
+getInputFilePositionÃ131072Õ()÷0
+getInputLineNumberÃ131072Õ()÷0
+getLanguageNameÃ1024Õ(const langType language)÷0œconst char *
+getNamedLanguageÃ1024Õ(const char *const name)÷0œlangType
+getSourceFileNameÃ131072Õ()÷0
+getSourceFileTagPathÃ131072Õ()÷0
+getSourceLanguageÃ131072Õ()÷0
+getSourceLanguageNameÃ131072Õ()÷0
+getSourceLineNumberÃ131072Õ()÷0
+getcÃ1024Õ(FILE *__stream)÷0œint
+getcÃ131072Õ(_fp)÷0
+getc_unlockedÃ1024Õ(FILE *__stream)÷0œint
+getcharÃ1024Õ(void)÷0œint
+getchar_unlockedÃ1024Õ(void)÷0œint
+getdelimÃ1024Õ(char **__restrict __lineptr, size_t *__restrict __n, int __delimiter, FILE *__restrict __stream)÷0œ__ssize_t
+getlineÃ1024Õ(char **__restrict __lineptr, size_t *__restrict __n, FILE *__restrict __stream)÷0œ__ssize_t
+getwÃ1024Õ(FILE *__stream)÷0œint
+gotArgsÃ64ŒsStatementInfo÷0œboolean
+gotNameÃ64ŒsStatementInfo÷0œboolean
+gotParenNameÃ64ŒsStatementInfo÷0œboolean
+haveQualifyingNameÃ64ŒsStatementInfo÷0œboolean
+headerExtÃ64ŒsOptionValues÷0œstringList *
+htobe16Ã131072Õ(x)÷0
+htobe32Ã131072Õ(x)÷0
+htobe64Ã131072Õ(x)÷0
+htole16Ã131072Õ(x)÷0
+htole32Ã131072Õ(x)÷0
+htole64Ã131072Õ(x)÷0
+idÃ64Œanon_struct_8÷0œunsigned int
+idÃ64ŒsKeywordDesc÷0œkeywordId
+if0Ã64ŒsOptionValues÷0œboolean
+ignoreÃ64ŒsOptionValues÷0œstringList *
+impTypeÃ4096÷0œeImplementation
+implementationÃ64ŒsExtFields÷0œboolean
+implementationÃ64ŒsStatementInfo÷0œimpType
+implementationÃ64ŒsTagEntryInfo::anon_struct_7÷0œconst char *
+implementationStringÃ16Õ(const impType imp)÷0œconst char *
+inFunctionÃ64ŒsStatementInfo÷0œboolean
+includeÃ64ŒsOptionValues÷0œsInclude
+includeTagÃ16Õ(const tagType type, const boolean isFileScope)÷0œboolean
+includingDefineTagsÃ16Õ(void)÷0œboolean
+includingDefineTagsÃ1024Õ(void)÷0œboolean
+inheritanceÃ64ŒsExtFields÷0œboolean
+inheritanceÃ64ŒsTagEntryInfo::anon_struct_7÷0œconst char *
+inheritingDeclarationÃ16Õ(declType decl)÷0œboolean
+initMemberInfoÃ16Õ(statementInfo *const st)÷0œvoid
+initOptionsÃ1024Õ(void)÷0œvoid
+initParenInfoÃ16Õ(parenInfo *const info)÷0œvoid
+initStatementÃ16Õ(statementInfo *const st, statementInfo *const parent)÷0œvoid
+initTagEntryÃ1024Õ(tagEntryInfo *const e, const char *const name)÷0œvoid
+initTokenÃ16Õ(tokenInfo* const token)÷0œvoid
+initializeÃ64Œanon_struct_8÷0œparserInitialize
+initializeCParserÃ16Õ(const langType language)÷0œvoid
+initializeCppParserÃ16Õ(const langType language)÷0œvoid
+initializeCsharpParserÃ16Õ(const langType language)÷0œvoid
+initializeJavaParserÃ16Õ(const langType language)÷0œvoid
+initializeParsingÃ1024Õ(void)÷0œvoid
+initializeVeraParserÃ16Õ(const langType language)÷0œvoid
+inputFileÃ4096÷0œsInputFile
+insideEnumBodyÃ131072Õ(st)÷0
+installLanguageMapDefaultÃ1024Õ(const langType language)÷0œvoid
+installLanguageMapDefaultsÃ1024Õ(void)÷0œvoid
+invalidContentsÃ64ŒsParenInfo÷0œboolean
+isAbsolutePathÃ1024Õ(const char *const path)÷0œboolean
+isBraceFormatÃ1024Õ(void)÷0œboolean
+isContextualKeywordÃ16Õ(const tokenInfo *const token)÷0œboolean
+isContextualStatementÃ16Õ(const statementInfo *const st)÷0œboolean
+isDirectoryÃ64Œanon_struct_14÷0œboolean
+isExcludedFileÃ1024Õ(const char* const name)÷0œboolean
+isExecutableÃ64Œanon_struct_14÷0œboolean
+isExternCDeclÃ131072Õ(st,c)÷0
+isFileEntryÃ64ŒsTagEntryInfo÷0œboolean
+isFileScopeÃ64ŒsTagEntryInfo÷0œboolean
+isHeaderÃ64ŒsInputFile::sSource÷0œboolean
+isHeaderFileÃ131072Õ()÷0
+isHighCharÃ131072Õ(c)÷0
+isIgnoreTokenÃ1024Õ(const char *const name, boolean *const pIgnoreParens, const char **const replacement)÷0œboolean
+isIncludeFileÃ1024Õ(const char *const fileName)÷0œboolean
+isKnrParamListÃ64ŒsParenInfo÷0œboolean
+isLanguageÃ131072Õ(lang)÷0
+isMemberÃ16Õ(const statementInfo *const st)÷0œboolean
+isNameCandidateÃ64ŒsParenInfo÷0œboolean
+isNormalFileÃ64Œanon_struct_14÷0œboolean
+isOneOfÃ131072Õ(c,s)÷0
+isOptionÃ64ŒsCookedArgs÷0œboolean
+isParamListÃ64ŒsParenInfo÷0œboolean
+isPointerÃ64ŒsParenInfo÷0œboolean
+isPointerÃ64ŒsStatementInfo÷0œboolean
+isRecursiveLinkÃ1024Õ(const char* const dirName)÷0œboolean
+isSameFileÃ1024Õ(const char *const name1, const char *const name2)÷0œboolean
+isSetuidÃ64Œanon_struct_14÷0œboolean
+isStatementEndÃ16Õ(const statementInfo *const st)÷0œboolean
+isSymbolicLinkÃ64Œanon_struct_14÷0œboolean
+isTypeÃ131072Õ(token,t)÷0
+isValidÃ64ŒsKeywordDesc÷0œshort
+isValidTypeSpecifierÃ16Õ(const declType declaration)÷0œboolean
+isalnumÃ1024Õ(int)÷0œint
+isalnum_lÃ1024Õ(int, __locale_t)÷0œint
+isalnum_lÃ131072Õ(c,l)÷0
+isalphaÃ1024Õ(int)÷0œint
+isalpha_lÃ1024Õ(int, __locale_t)÷0œint
+isalpha_lÃ131072Õ(c,l)÷0
+isasciiÃ1024Õ(int __c)÷0œint
+isasciiÃ131072Õ(c)÷0
+isascii_lÃ131072Õ(c,l)÷0
+isblankÃ1024Õ(int)÷0œint
+isblank_lÃ1024Õ(int, __locale_t)÷0œint
+isblank_lÃ131072Õ(c,l)÷0
+iscntrlÃ1024Õ(int)÷0œint
+iscntrl_lÃ1024Õ(int, __locale_t)÷0œint
+iscntrl_lÃ131072Õ(c,l)÷0
+isctypeÃ1024Õ(int __c, int __mask)÷0œint
+isdigitÃ1024Õ(int)÷0œint
+isdigit_lÃ1024Õ(int, __locale_t)÷0œint
+isdigit_lÃ131072Õ(c,l)÷0
+isgraphÃ1024Õ(int)÷0œint
+isgraph_lÃ1024Õ(int, __locale_t)÷0œint
+isgraph_lÃ131072Õ(c,l)÷0
+isidentÃ131072Õ(c)÷0
+isident1Ã131072Õ(c)÷0
+islowerÃ1024Õ(int)÷0œint
+islower_lÃ1024Õ(int, __locale_t)÷0œint
+islower_lÃ131072Õ(c,l)÷0
+isprintÃ1024Õ(int)÷0œint
+isprint_lÃ1024Õ(int, __locale_t)÷0œint
+isprint_lÃ131072Õ(c,l)÷0
+ispunctÃ1024Õ(int)÷0œint
+ispunct_lÃ1024Õ(int, __locale_t)÷0œint
+ispunct_lÃ131072Õ(c,l)÷0
+isspaceÃ1024Õ(int)÷0œint
+isspace_lÃ1024Õ(int, __locale_t)÷0œint
+isspace_lÃ131072Õ(c,l)÷0
+isupperÃ1024Õ(int)÷0œint
+isupper_lÃ1024Õ(int, __locale_t)÷0œint
+isupper_lÃ131072Õ(c,l)÷0
+isxdigitÃ1024Õ(int)÷0œint
+isxdigit_lÃ1024Õ(int, __locale_t)÷0œint
+isxdigit_lÃ131072Õ(c,l)÷0
+itemÃ64ŒsArgs÷0œchar *
+itemÃ64ŒsArgs::anon_union_11::sArgvArgs÷0œchar *const *
+itemÃ64ŒsArgs::anon_union_11::sStringArgs÷0œconst char *
+itemÃ64ŒsCookedArgs÷0œchar *
+javaKindÃ4096÷0œanon_enum_18
+javaTagKindÃ16Õ(const tagType type)÷0œjavaKind
+jmp_bufÃ4096÷0œ__jmp_buf_tag
+keywordÃ64ŒsTokenInfo÷0œkeywordId
+keywordDescÃ4096÷0œsKeywordDesc
+keywordIdÃ4096÷0œeKeywordId
+kindÃ64ŒsExtFields÷0œboolean
+kindÃ64ŒsTagEntryInfo÷0œchar
+kindCountÃ64Œanon_struct_8÷0œunsigned int
+kindKeyÃ64ŒsExtFields÷0œboolean
+kindLongÃ64ŒsExtFields÷0œboolean
+kindLongÃ64ŒsOptionValues÷0œboolean
+kindNameÃ64ŒsTagEntryInfo÷0œconst char *
+kindOptionÃ4096÷0œsKindOption
+kindsÃ64Œanon_struct_8÷0œkindOption *
+labelÃ64ŒsTagFields÷0œconst char *const *
+langTypeÃ4096÷0œint
+languageÃ64ŒsExtFields÷0œboolean
+languageÃ64ŒsInputFile÷0œlangType
+languageÃ64ŒsInputFile::sSource÷0œlangType
+languageÃ64ŒsOptionValues÷0œlangType
+languageÃ64ŒsTagEntryInfo÷0œconst char *
+languageSupportsGenericsÃ16Õ(void)÷0œboolean
+le16tohÃ131072Õ(x)÷0
+le32tohÃ131072Õ(x)÷0
+le64tohÃ131072Õ(x)÷0
+lengthÃ64Œanon_struct_9÷0œsize_t
+lengthÃ64ŒsVString÷0œsize_t
+letterÃ64ŒsKindOption÷0œint
+lineÃ64ŒeTagFile::sMax÷0œsize_t
+lineÃ64ŒsInputFile÷0œvString *
+lineBreakÃ1024Õ(void)÷0œvoid
+lineDirectivesÃ64ŒsOptionValues÷0œboolean
+lineModeÃ64ŒsArgs÷0œboolean
+lineNumberÃ64ŒsExtFields÷0œboolean
+lineNumberÃ64ŒsInputFile÷0œunsigned long
+lineNumberÃ64ŒsInputFile::sSource÷0œunsigned long
+lineNumberÃ64ŒsTagEntryInfo÷0œunsigned long
+lineNumberÃ64ŒsTokenInfo÷0œunsigned long
+lineNumberEntryÃ64ŒsTagEntryInfo÷0œboolean
+linuxÃ65536÷0
+listÃ64ŒsStringList÷0œvString * *
+locale_tÃ4096÷0œ__locale_t
+locateÃ64ŒsOptionValues÷0œexCmd
+longOptionÃ64ŒsCookedArgs÷0œboolean
+longjmpÃ1024Õ(struct __jmp_buf_tag __env[1], int __val)÷0œvoid
+lookupKeywordÃ1024Õ(const char *const string, langType language)÷0œint
+makeExtraTagEntryÃ16Õ(const tagType type, tagEntryInfo *const e, vString *const scope)÷0œvoid
+makeSimpleTagÃ1024Õ(const vString* const name, kindOption* const kinds, const int kind)÷0œvoid
+makeTagÃ16Õ(const tokenInfo *const token, const statementInfo *const st, boolean isFileScope, const tagType type)÷0œvoid
+makeTagEntryÃ1024Õ(const tagEntryInfo *const tag)÷0œvoid
+maxÃ64ŒeTagFile÷0œsMax
+maxÃ64ŒsStringList÷0œunsigned int
+memberÃ64ŒsStatementInfo÷0œmemberInfo
+memberInfoÃ4096÷0œsMemberInfo
+memccpyÃ1024Õ(void *__restrict __dest, const void *__restrict __src, int __c, size_t __n)÷0œvoid *
+memcmpÃ1024Õ(const void *__s1, const void *__s2, size_t __n)÷0œint
+memcpyÃ1024Õ(void *__restrict __dest, const void *__restrict __src, size_t __n)÷0œvoid *
+memfrobÃ1024Õ(void *__s, size_t __n)÷0œvoid *
+memmemÃ1024Õ(const void *__haystack, size_t __haystacklen, const void *__needle, size_t __needlelen)÷0œvoid *
+memmoveÃ1024Õ(void *__dest, const void *__src, size_t __n)÷0œvoid *
+mempcpyÃ1024Õ(void *__restrict __dest, const void *__restrict __src, size_t __n)÷0œvoid *
+memsetÃ1024Õ(void *__s, int __c, size_t __n)÷0œvoid *
+nameÃ64Œanon_struct_14÷0œchar *
+nameÃ64Œanon_struct_8÷0œchar *
+nameÃ64ŒeTagFile÷0œchar *
+nameÃ64ŒeTagFile::sEtags÷0œchar *
+nameÃ64ŒsInputFile÷0œvString *
+nameÃ64ŒsInputFile::sSource÷0œvString *
+nameÃ64ŒsKeywordDesc÷0œconst char *
+nameÃ64ŒsKindOption÷0œconst char *
+nameÃ64ŒsTagEntryInfo÷0œconst char *
+nameÃ64ŒsTokenInfo÷0œvString *
+nestÃ16Õ(statementInfo *const st, const unsigned int nestLevel)÷0œvoid
+nestedArgsÃ64ŒsParenInfo÷0œboolean
+newLineÃ64ŒsInputFile÷0œboolean
+newLowerStringÃ1024Õ(const char* str)÷0œchar *
+newStatementÃ16Õ(statementInfo *const parent)÷0œstatementInfo *
+newTokenÃ16Õ(void)÷0œtokenInfo *
+newUpperStringÃ1024Õ(const char* str)÷0œchar *
+nextÃ64ŒsArgs::anon_union_11::sStringArgs÷0œconst char *
+nextTokenÃ16Õ(statementInfo *const st)÷0œvoid
+notVariableÃ64ŒsStatementInfo÷0œboolean
+numTagsÃ64ŒeTagFile÷0œsNumTags
+obstackÃ32768÷0
+obstack_printfÃ1024Õ(struct obstack *__restrict __obstack, const char *__restrict __format, ...)÷0œint
+obstack_vprintfÃ1024Õ(struct obstack *__restrict __obstack, const char *__restrict __format, __gnuc_va_list __args)÷0œint
+off64_tÃ4096÷0œ__off64_t
+off_tÃ4096÷0œ__off_t
+openTagFileÃ1024Õ(void)÷0œvoid
+open_memstreamÃ1024Õ(char **__bufloc, size_t *__sizeloc)÷0œFILE *
+optionTypeÃ4096÷0œanon_enum_12
+optionValuesÃ4096÷0œsOptionValues
+parameterÃ64ŒsCookedArgs÷0œconst char *
+parameterCountÃ64ŒsParenInfo÷0œunsigned int
+parenInfoÃ4096÷0œsParenInfo
+parentÃ64ŒsStatementInfo÷0œsStatementInfo
+parentClassesÃ64ŒsStatementInfo÷0œvString *
+parentDeclÃ131072Õ(st)÷0
+parseFileÃ1024Õ(const char *const fileName)÷0œboolean
+parseGeneralTokenÃ16Õ(statementInfo *const st, const int c)÷0œvoid
+parseIdentifierÃ16Õ(statementInfo *const st, const int c)÷0œvoid
+parseJavaAnnotationÃ16Õ(statementInfo *const st)÷0œvoid
+parseOptionÃ1024Õ(cookedArgs* const cargs)÷0œvoid
+parseOptionsÃ1024Õ(cookedArgs* const cargs)÷0œvoid
+parseParensÃ16Õ(statementInfo *const st, parenInfo *const info)÷0œint
+parserÃ64Œanon_struct_8÷0œsimpleParser
+parser2Ã64Œanon_struct_8÷0œrescanParser
+parserDefinitionÃ4096÷0œanon_struct_8
+parserDefinitionFuncÃ4096÷0œtypedef parserDefinition *
+parserInitializeÃ4096÷0œtypedef void
+parserNewÃ1024Õ(const char* name)÷0œparserDefinition *
+pathÃ64ŒsInputFile÷0œvString *
+patternsÃ64Œanon_struct_8÷0œconst char *const *
+pcloseÃ1024Õ(FILE *__stream)÷0œint
+perrorÃ1024Õ(const char *__s)÷0œvoid
+popenÃ1024Õ(const char *__command, const char *__modes)÷0œFILE *
+prevÃ64ŒeTagFile::sNumTags÷0œlong
+prevTokenÃ16Õ(const statementInfo *const st, unsigned int n)÷0œtokenInfo *
+previewFirstOptionÃ1024Õ(cookedArgs* const cargs)÷0œvoid
+printKindOptionsÃ1024Õ(void)÷0œvoid
+printLanguageKindsÃ1024Õ(const langType language)÷0œvoid
+printLanguageListÃ1024Õ(void)÷0œvoid
+printLanguageMapÃ1024Õ(const langType language)÷0œvoid
+printLanguageMapsÃ1024Õ(const langType language)÷0œvoid
+printRegexKindsÃ1024Õ(const langType language, boolean indent)÷0œvoid
+printTotalsÃ64ŒsOptionValues÷0œboolean
+printfÃ1024Õ(const char *__restrict __format, ...)÷0œint
+processAngleBracketÃ16Õ(void)÷0œvoid
+processColonÃ16Õ(statementInfo *const st)÷0œvoid
+processInitializerÃ16Õ(statementInfo *const st)÷0œvoid
+processInterfaceÃ16Õ(statementInfo *const st)÷0œvoid
+processKindOptionÃ1024Õ(const char *const option, const char *const parameter)÷0œboolean
+processLanguageDefineOptionÃ1024Õ(const char *const option, const char *const parameter)÷0œvoid
+processNameÃ16Õ(statementInfo *const st)÷0œvoid
+processRegexOptionÃ1024Õ(const char *const option, const char *const parameter)÷0œboolean
+processTokenÃ16Õ(tokenInfo *const token, statementInfo *const st)÷0œvoid
+putcÃ1024Õ(int __c, FILE *__stream)÷0œint
+putcÃ131072Õ(_ch,_fp)÷0
+putc_unlockedÃ1024Õ(int __c, FILE *__stream)÷0œint
+putcharÃ1024Õ(int __c)÷0œint
+putchar_unlockedÃ1024Õ(int __c)÷0œint
+putsÃ1024Õ(const char *__s)÷0œint
+putwÃ1024Õ(int __w, FILE *__stream)÷0œint
+qualifiedTagsÃ64ŒsInclude÷0œboolean
+qualifyBlockTagÃ16Õ(statementInfo *const st, const tokenInfo *const nameToken)÷0œvoid
+qualifyCompoundTagÃ16Õ(const statementInfo *const st, const tokenInfo *const nameToken)÷0œvoid
+qualifyEnumeratorTagÃ16Õ(const statementInfo *const st, const tokenInfo *const nameToken)÷0œvoid
+qualifyFunctionDeclTagÃ16Õ(const statementInfo *const st, const tokenInfo *const nameToken)÷0œvoid
+qualifyFunctionTagÃ16Õ(const statementInfo *const st, const tokenInfo *const nameToken)÷0œvoid
+qualifyVariableTagÃ16Õ(const statementInfo *const st, const tokenInfo *const nameToken)÷0œvoid
+readÃ64Œanon_struct_6÷0œ__io_read_fn *
+readIdentifierÃ16Õ(tokenInfo *const token, const int firstChar)÷0œvoid
+readLineÃ1024Õ(vString *const vLine, FILE *const fp)÷0œchar *
+readOperatorÃ16Õ(statementInfo *const st)÷0œvoid
+readOptionConfigurationÃ1024Õ(void)÷0œvoid
+readPackageNameÃ16Õ(tokenInfo *const token, const int firstChar)÷0œvoid
+readPackageOrNamespaceÃ16Õ(statementInfo *const st, const declType declaration)÷0œvoid
+readParentsÃ16Õ(statementInfo *const st, const int qualifier)÷0œvoid
+readSourceLineÃ1024Õ(vString *const vLine, long location, long *const pSeekValue)÷0œchar *
+recurseÃ64ŒsOptionValues÷0œboolean
+regexÃ64Œanon_struct_8÷0œboolean
+regexCallbackÃ4096÷0œtypedef void
+regexMatchÃ4096÷0œanon_struct_9
+reinitStatementÃ16Õ(statementInfo *const st, const boolean partial)÷0œvoid
+relativeFilenameÃ1024Õ(const char *file, const char *dir)÷0œchar *
+removeÃ1024Õ(const char *__filename)÷0œint
+removeLanguageExtensionMapÃ1024Õ(const char *const extension)÷0œboolean
+renameÃ1024Õ(const char *__old, const char *__new)÷0œint
+renameatÃ1024Õ(int __oldfd, const char *__old, int __newfd, const char *__new)÷0œint
+rescanParserÃ4096÷0œtypedef boolean
+restartStatementÃ16Õ(statementInfo *const st)÷0œvoid
+retardTokenÃ16Õ(statementInfo *const st)÷0œvoid
+rewindÃ1024Õ(FILE *__stream)÷0œvoid
+sArgsÃ2048÷0
+sArgvArgsÃ2048ŒsArgs::anon_union_11÷0
+sCookedArgsÃ2048÷0
+sEtagsÃ2048ŒeTagFile÷0
+sExtFieldsÃ2048÷0
+sFileArgsÃ2048ŒsArgs::anon_union_11÷0
+sIncludeÃ2048÷0
+sInputFileÃ2048÷0
+sKeywordDescÃ2048÷0
+sKindOptionÃ2048÷0
+sMaxÃ2048ŒeTagFile÷0
+sMemberInfoÃ2048÷0
+sNumTagsÃ2048ŒeTagFile÷0
+sOptionValuesÃ2048÷0
+sParenInfoÃ2048÷0
+sSourceÃ2048ŒsInputFile÷0
+sStatementInfoÃ2048÷0
+sStringArgsÃ2048ŒsArgs::anon_union_11÷0
+sStringListÃ2048÷0
+sTagEntryInfoÃ2048÷0
+sTagFieldsÃ2048÷0
+sTokenInfoÃ2048÷0
+sVStringÃ2048÷0
+scanfÃ1024Õ(const char *__restrict __format, ...)÷0œint
+scopeÃ64ŒsExtFields÷0œboolean
+scopeÃ64ŒsStatementInfo÷0œtagScope
+scopeÃ64ŒsTagEntryInfo::anon_struct_7÷0œconst char *
+seekÃ64Œanon_struct_6÷0œ__io_seek_fn *
+setAccessÃ16Õ(statementInfo *const st, const accessType access)÷0œvoid
+setCurrentDirectoryÃ1024Õ(void)÷0œvoid
+setDefaultTagFileNameÃ1024Õ(void)÷0œvoid
+setExecutableNameÃ1024Õ(const char *const path)÷0œvoid
+setTokenÃ16Õ(statementInfo *const st, const tokenType type)÷0œvoid
+setbufÃ1024Õ(FILE *__restrict __stream, char *__restrict __buf)÷0œvoid
+setbufferÃ1024Õ(FILE *__restrict __stream, char *__restrict __buf, size_t __size)÷0œvoid
+setjmpÃ1024Õ(jmp_buf __env)÷0œint
+setjmpÃ131072Õ(env)÷0
+setlinebufÃ1024Õ(FILE *__stream)÷0œvoid
+setvbufÃ1024Õ(FILE *__restrict __stream, char *__restrict __buf, int __modes, size_t __n)÷0œint
+shortOptionsÃ64ŒsCookedArgs÷0œchar *
+sigjmp_bufÃ4096÷0œ__jmp_buf_tag
+siglongjmpÃ1024Õ(sigjmp_buf __env, int __val)÷0œvoid
+signatureÃ64ŒsExtFields÷0œboolean
+signatureÃ64ŒsTagEntryInfo::anon_struct_7÷0œconst char *
+sigsetjmpÃ131072Õ(env,savemask)÷0
+simpleÃ64ŒsCookedArgs÷0œchar
+simpleParserÃ4096÷0œtypedef void
+sizeÃ64Œanon_struct_14÷0œunsigned long
+sizeÃ64ŒsVString÷0œsize_t
+size_tÃ4096÷0œlong unsigned int
+skipBracesÃ16Õ(void)÷0œvoid
+skipInitializerÃ16Õ(statementInfo *const st)÷0œint
+skipJavaThrowsÃ16Õ(statementInfo *const st)÷0œvoid
+skipMacroÃ16Õ(statementInfo *const st)÷0œvoid
+skipMemIntializerListÃ16Õ(tokenInfo *const token)÷0œvoid
+skipOverCCommentÃ1024Õ(void)÷0œint
+skipParensÃ16Õ(void)÷0œvoid
+skipPostArgumentStuffÃ16Õ( statementInfo *const st, parenInfo *const info)÷0œboolean
+skipStatementÃ16Õ(statementInfo *const st)÷0œvoid
+skipToFormattedBraceMatchÃ16Õ(void)÷0œvoid
+skipToMatchÃ16Õ(const char *const pair)÷0œvoid
+skipToNonWhiteÃ16Õ(void)÷0œint
+skipToOneOfÃ16Õ(const char *const chars)÷0œint
+snprintfÃ1024Õ(char *__restrict __s, size_t __maxlen, const char *__restrict __format, ...)÷0œint
+sortTypeÃ2÷0
+sortTypeÃ4096÷0
+sortedÃ64ŒsOptionValues÷0œsortType
+sourceÃ64ŒsInputFile÷0œsSource
+sourceFileNameÃ64ŒsTagEntryInfo÷0œconst char *
+sprintfÃ1024Õ(char *__restrict __s, const char *__restrict __format, ...)÷0œint
+sscanfÃ1024Õ(const char *__restrict __s, const char *__restrict __format, ...)÷0œint
+ssize_tÃ4096÷0œ__ssize_t
+startÃ64Œanon_struct_9÷0œsize_t
+statementInfoÃ4096÷0œsStatementInfo
+stderrÃ32768÷0œ_IO_FILE
+stderrÃ65536÷0
+stdinÃ32768÷0œ_IO_FILE
+stdinÃ65536÷0
+stdoutÃ32768÷0œ_IO_FILE
+stdoutÃ65536÷0
+stpcpyÃ1024Õ(char *__restrict __dest, const char *__restrict __src)÷0œchar *
+stpncpyÃ1024Õ(char *__restrict __dest, const char *__restrict __src, size_t __n)÷0œchar *
+strcasecmpÃ131072Õ(s1,s2)÷0
+strcasecmp_lÃ1024Õ(const char *__s1, const char *__s2, __locale_t __loc)÷0œint
+strcatÃ1024Õ(char *__restrict __dest, const char *__restrict __src)÷0œchar *
+strcmpÃ1024Õ(const char *__s1, const char *__s2)÷0œint
+strcollÃ1024Õ(const char *__s1, const char *__s2)÷0œint
+strcoll_lÃ1024Õ(const char *__s1, const char *__s2, __locale_t __l)÷0œint
+strcpyÃ1024Õ(char *__restrict __dest, const char *__restrict __src)÷0œchar *
+strcspnÃ1024Õ(const char *__s, const char *__reject)÷0œsize_t
+strdupÃ1024Õ(const char *__s)÷0œchar *
+strdupaÃ131072Õ(s)÷0
+strerrorÃ1024Õ(int __errnum)÷0œchar *
+strerror_lÃ1024Õ(int __errnum, __locale_t __l)÷0œchar *
+strerror_rÃ1024Õ(int __errnum, char *__buf, size_t __buflen)÷0œchar *
+strfryÃ1024Õ(char *__string)÷0œchar *
+stringÃ64ŒsArgs::anon_union_11::sStringArgs÷0œconst char *
+stringArgsÃ64ŒsArgs::anon_union_11÷0œsStringArgs
+stringListÃ4096÷0œsStringList
+stringListAddÃ1024Õ(stringList *const current, vString *string)÷0œvoid
+stringListClearÃ1024Õ(stringList *const current)÷0œvoid
+stringListCombineÃ1024Õ(stringList *const current, stringList *const from)÷0œvoid
+stringListCountÃ1024Õ(const stringList *const current)÷0œunsigned int
+stringListDeleteÃ1024Õ(stringList *const current)÷0œvoid
+stringListExtensionMatchedÃ1024Õ(const stringList* const list, const char* const extension)÷0œboolean
+stringListFileMatchedÃ1024Õ(const stringList* const list, const char* const str)÷0œboolean
+stringListHasÃ1024Õ(const stringList *const current, const char *const string)÷0œboolean
+stringListHasInsensitiveÃ1024Õ(const stringList *const current, const char *const string)÷0œboolean
+stringListHasTestÃ1024Õ(const stringList *const current, boolean (*test)(const char *s))÷0œboolean
+stringListItemÃ1024Õ(const stringList *const current, const unsigned int indx)÷0œvString *
+stringListLastÃ1024Õ(const stringList *const current)÷0œvString *
+stringListNewÃ1024Õ(void)÷0œstringList *
+stringListNewFromArgvÃ1024Õ(const char* const* const list)÷0œstringList *
+stringListNewFromFileÃ1024Õ(const char* const fileName)÷0œstringList *
+stringListPrintÃ1024Õ(const stringList *const current)÷0œvoid
+stringListRemoveExtensionÃ1024Õ(stringList* const current, const char* const extension)÷0œboolean
+stringListRemoveLastÃ1024Õ(stringList *const current)÷0œvoid
+strlenÃ1024Õ(const char *__s)÷0œsize_t
+strncasecmpÃ131072Õ(s1,s2,n)÷0
+strncasecmp_lÃ1024Õ(const char *__s1, const char *__s2, size_t __n, __locale_t __loc)÷0œint
+strncatÃ1024Õ(char *__restrict __dest, const char *__restrict __src, size_t __n)÷0œchar *
+strncmpÃ1024Õ(const char *__s1, const char *__s2, size_t __n)÷0œint
+strncpyÃ1024Õ(char *__restrict __dest, const char *__restrict __src, size_t __n)÷0œchar *
+strndupÃ1024Õ(const char *__string, size_t __n)÷0œchar *
+strndupaÃ131072Õ(s,n)÷0
+strnlenÃ1024Õ(const char *__string, size_t __maxlen)÷0œsize_t
+strnuppercmpÃ1024Õ( # 533 3 4 const char *__s1 # 533 , # 533 3 4 const char *__s2 # 533 , # 533 3 4 size_t __n # 533 )÷0œint
+strnuppercmpÃ1024Õ(const char *s1, const char *s2, size_t n)÷0œint
+strsepÃ1024Õ(char **__restrict __stringp, const char *__restrict __delim)÷0œchar *
+strsignalÃ1024Õ(int __sig)÷0œchar *
+strspnÃ1024Õ(const char *__s, const char *__accept)÷0œsize_t
+strstrÃ1024Õ(const char *str, const char *substr)÷0œchar *
+strtokÃ1024Õ(char *__restrict __s, const char *__restrict __delim)÷0œchar *
+strtok_rÃ1024Õ(char *__restrict __s, const char *__restrict __delim, char **__restrict __save_ptr)÷0œchar *
+struppercmpÃ1024Õ( # 529 3 4 const char *__s1 # 529 , # 529 3 4 const char *__s2 # 529 )÷0œint
+struppercmpÃ1024Õ(const char *s1, const char *s2)÷0œint
+strverscmpÃ1024Õ(const char *__s1, const char *__s2)÷0œint
+strxfrmÃ1024Õ(char *__restrict __dest, const char *__restrict __src, size_t __n)÷0œsize_t
+strxfrm_lÃ1024Õ(char *__dest, const char *__src, size_t __n, __locale_t __l)÷0œsize_t
+sys_errlistÃ32768÷0œconst char *const
+sys_nerrÃ32768÷0œint
+tagÃ64ŒeTagFile::sMax÷0œsize_t
+tagCheckÃ16Õ(statementInfo *const st)÷0œvoid
+tagEntryInfoÃ4096÷0œsTagEntryInfo
+tagFieldsÃ4096÷0œsTagFields
+tagFileÃ4096÷0œeTagFile
+tagFileFormatÃ64ŒsOptionValues÷0œunsigned int
+tagFileNameÃ64ŒsOptionValues÷0œchar *
+tagFileNameÃ1024Õ(void)÷0œconst char *
+tagLetterÃ16Õ(const tagType type)÷0œint
+tagNameÃ16Õ(const tagType type)÷0œconst char *
+tagPathÃ64ŒsInputFile::sSource÷0œchar *
+tagRelativeÃ64ŒsOptionValues÷0œboolean
+tagScopeÃ4096÷0œeTagScope
+tagTypeÃ4096÷0œeTagType
+tempFileÃ1024Õ(const char *const mode, char **const pName)÷0œFILE *
+tempnamÃ1024Õ(const char *__dir, const char *__pfx)÷0œchar *
+testEtagsInvocationÃ1024Õ(void)÷0œvoid
+tmpfileÃ1024Õ(void)÷0œFILE *
+tmpfile64Ã1024Õ(void)÷0œFILE *
+tmpnamÃ1024Õ(char *__s)÷0œchar *
+tmpnam_rÃ1024Õ(char *__s)÷0œchar *
+toLowerStringÃ1024Õ(char* str)÷0œvoid
+toUpperStringÃ1024Õ(char* str)÷0œvoid
+toasciiÃ1024Õ(int __c)÷0œint
+toasciiÃ131072Õ(c)÷0
+toascii_lÃ131072Õ(c,l)÷0
+tokenÃ64ŒsStatementInfo÷0œtokenInfo *
+tokenIndexÃ64ŒsStatementInfo÷0œunsigned int
+tokenInfoÃ4096÷0œsTokenInfo
+tokenTypeÃ4096÷0œeTokenType
+tolowerÃ1024Õ(int __c)÷0œint
+tolower_lÃ1024Õ(int __c, __locale_t __l)÷0œint
+toupperÃ1024Õ(int __c)÷0œint
+toupper_lÃ1024Õ(int __c, __locale_t __l)÷0œint
+truncateLineÃ64ŒsTagEntryInfo÷0œboolean
+typeÃ64ŒsArgs÷0œargType
+typeÃ64ŒsTokenInfo÷0œtokenType
+typeRefÃ64ŒsExtFields÷0œboolean
+typeRefÃ64ŒsTagEntryInfo::anon_struct_7÷0œconst char *
+uÃ64ŒsArgs÷0œanon_union_11
+ungetcÃ1024Õ(int __c, FILE *__stream)÷0œint
+ungetchÃ64ŒsInputFile÷0œint
+unixÃ65536÷0
+vLineÃ64ŒeTagFile÷0œvString *
+vStringÃ4096÷0œsVString
+vStringAutoResizeÃ1024Õ(vString *const string)÷0œboolean
+vStringCatÃ131072Õ(vs,s)÷0
+vStringCatSÃ1024Õ(vString *const string, const char *const s)÷0œvoid
+vStringCharÃ131072Õ(vs,i)÷0
+vStringChopÃ1024Õ(vString *const string)÷0œvoid
+vStringClearÃ1024Õ(vString *const string)÷0œvoid
+vStringCopyÃ131072Õ(vs,s)÷0
+vStringCopySÃ1024Õ(vString *const string, const char *const s)÷0œvoid
+vStringCopyToLowerÃ1024Õ(vString *const dest, const vString *const src)÷0œvoid
+vStringDeleteÃ1024Õ(vString *const string)÷0œvoid
+vStringItemÃ131072Õ(vs,i)÷0
+vStringLastÃ131072Õ(vs)÷0
+vStringLengthÃ131072Õ(vs)÷0
+vStringLowerÃ131072Õ(vs)÷0
+vStringNCatÃ131072Õ(vs,s,l)÷0
+vStringNCatSÃ1024Õ(vString *const string, const char *const s, const size_t length)÷0œvoid
+vStringNCopyÃ131072Õ(vs,s,l)÷0
+vStringNCopySÃ1024Õ(vString *const string, const char *const s, const size_t length)÷0œvoid
+vStringNewÃ1024Õ(void)÷0œvString *
+vStringNewCopyÃ1024Õ(const vString *const string)÷0œvString *
+vStringNewInitÃ1024Õ(const char *const s)÷0œvString *
+vStringPutÃ131072Õ(s,c)÷0
+vStringSetLengthÃ1024Õ(vString *const string)÷0œvoid
+vStringSizeÃ131072Õ(vs)÷0
+vStringStripLeadingÃ1024Õ(vString *const string)÷0œvoid
+vStringStripNewlineÃ1024Õ(vString *const string)÷0œvoid
+vStringStripTrailingÃ1024Õ(vString *const string)÷0œvoid
+vStringTerminateÃ131072Õ(vs)÷0
+vStringUpperÃ131072Õ(vs)÷0
+vStringValueÃ131072Õ(vs)÷0
+va_argÃ131072Õ(v,l)÷0
+va_copyÃ131072Õ(d,s)÷0
+va_endÃ131072Õ(v)÷0
+va_listÃ4096÷0œ__gnuc_va_list
+va_startÃ131072Õ(v,l)÷0
+valueÃ64ŒsTagFields÷0œconst char *const *
+vasprintfÃ1024Õ(char **__restrict __ptr, const char *__restrict __f, __gnuc_va_list __arg)÷0œint
+vdprintfÃ1024Õ(int __fd, const char *__restrict __fmt, __gnuc_va_list __arg)÷0œint
+veraKindÃ4096÷0œanon_enum_19
+veraTagKindÃ16Õ(const tagType type)÷0œveraKind
+verboseÃ64ŒsOptionValues÷0œboolean
+verboseÃ1024Õ(const char *const format, ...)÷0œvoid
+vfprintfÃ1024Õ(FILE *__restrict __s, const char *__restrict __format, __gnuc_va_list __arg)÷0œint
+vfscanfÃ1024Õ(FILE *__restrict __s, const char *__restrict __format, __gnuc_va_list __arg)÷0œint
+vprintfÃ1024Õ(const char *__restrict __format, __gnuc_va_list __arg)÷0œint
+vscanfÃ1024Õ(const char *__restrict __format, __gnuc_va_list __arg)÷0œint
+vsnprintfÃ1024Õ(char *__restrict __s, size_t __maxlen, const char *__restrict __format, __gnuc_va_list __arg)÷0œint
+vsprintfÃ1024Õ(char *__restrict __s, const char *__restrict __format, __gnuc_va_list __arg)÷0œint
+vsscanfÃ1024Õ(const char *__restrict __s, const char *__restrict __format, __gnuc_va_list __arg)÷0œint
+writeÃ64Œanon_struct_6÷0œ__io_write_fn *
+xCallocÃ131072Õ(n,Type)÷0
+xMallocÃ131072Õ(n,Type)÷0
+xReallocÃ131072Õ(p,n,Type)÷0
+xrefÃ64ŒsOptionValues÷0œboolean
