@@ -3,9 +3,6 @@
 #include <fstream>
 #include <sstream>
 #include "Table.h"
-#include "IntRow.h"
-#include "DoubleRow.h"
-#include "StringRow.h"
 #define MAX 100
 class Database
 {
@@ -39,7 +36,7 @@ private:
 		}
 	}
 	template <typename T, typename S>
-	void fillRow(Table& newTable, T& row, stringstream& ss, int cntRows, int numRows, S value){
+	void fillRow(Table& newTable, T& row, stringstream& ss, int cntRows, int numRows, S value, int cnt){
 		while(cntRows < numRows){
 			ss>>value;
 			cout<<value<<endl;
@@ -47,7 +44,7 @@ private:
 			row[cntRows] = value;
 			cntRows++;
 		}
-		//newTable.addRow(row, numRows);
+		newTable.addRow(row,cnt);
 	}
 
 public:
@@ -72,24 +69,26 @@ public:
 		ss>>numRows;
 		ss.ignore(3);
 		Table newTable(tableName, numRows, numCol);
+
 		while(cnt < numCol){
 			ss>>colType;
 			ss.ignore(3);
 			if(colType == "int"){
 				IntRow row(numRows);
 				int value;
-				fillRow(newTable, row, ss, cntRows, numRows, value);
+				fillRow(newTable, row, ss, cntRows, numRows, value, cnt);
 
 			}else if(colType == "double"){
 				DoubleRow row(numRows);
 				double value;
-				fillRow(newTable, row, ss, cntRows, numRows, value);
+				fillRow(newTable, row, ss, cntRows, numRows, value, cnt);
 			}else if(colType == "string"){
 				StringRow row(numRows);
 				string value;
-				fillRow(newTable, row, ss, cntRows, numRows, value);
+				fillRow(newTable, row, ss, cntRows, numRows, value, cnt);
 			}
 			cnt++;
 		}
+		newTable.print();
 	}
 };

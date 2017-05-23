@@ -1,6 +1,9 @@
 #include <string>
 #include <iostream>
 #include "Row.h"
+#include "IntRow.h"
+#include "DoubleRow.h"
+#include "StringRow.h"
 #define COLUMN_TYPES 100
 using namespace std;
 
@@ -9,13 +12,13 @@ private:
 	string name;
 	int numberOfColumns;
 	string types[COLUMN_TYPES];
-	Row* rows;
+	Row** rows;
 public:
 	
 	Table(string _name, int _rows, int _col){
 		name = _name;
-		rows = new Row[_rows];
 		numberOfColumns = _col;
+		rows = new Row* [_col];
 	}
 	
 	void describe();
@@ -25,11 +28,24 @@ public:
 	string getName(){
 		return name;
 	}
-
-	void addRow(const Row* row, size_t pos){
-		rows[pos] = row;
+	template <typename T>
+	void addRow(T& row, size_t pos){
+		rows[pos] = &(row);
 	}
 	~Table(){
-		delete rows;
+		//delete rows;
+	}
+
+	void print(){
+		cout<<"name: "<<name<<endl;
+		cout<<"№ col: "<<numberOfColumns<<endl;
+		for(int i = 0; i < numberOfColumns; i++){
+			cout<<types[i]<<" ";
+		}
+		cout<<endl;
+		for(int i = 0; i < numberOfColumns; i++){
+			cout<<rows[i]<<endl;
+		}
+		cout<<endl;
 	}
 };
